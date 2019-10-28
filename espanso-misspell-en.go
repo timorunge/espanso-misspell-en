@@ -11,7 +11,7 @@ import (
 const (
 	author  = "Timo Runge"
 	repo    = "https://github.com/timorunge/espanso-misspell-en"
-	version = "0.1.0"
+	version = "0.1.1"
 )
 
 func main() {
@@ -24,7 +24,7 @@ func genEn() {
 	p := espanso.NewPackage()
 	p.SetName("misspell-en")
 	p.SetParent("default")
-	p.SetMatches(espanso.DictToMatches(misspell.DictMain))
+	p.SetMatches(espanso.DictToMatches(misspell.DictMain).SetWord(true))
 	p.SetVersion(version)
 	if err := p.Write(); err != nil {
 		panic(err)
@@ -51,7 +51,7 @@ func genEnUK() {
 	p := espanso.NewPackage()
 	p.SetName("misspell-en_UK")
 	p.SetParent("default")
-	p.SetMatches(espanso.DictToMatches(misspell.DictBritish))
+	p.SetMatches(espanso.DictToMatches(misspell.DictBritish).SetWord(true))
 	p.SetVersion(version)
 	if err := p.Write(); err != nil {
 		panic(err)
@@ -78,7 +78,7 @@ func genEnUS() {
 	p := espanso.NewPackage()
 	p.SetName("misspell-en_US")
 	p.SetParent("default")
-	p.SetMatches(espanso.DictToMatches(misspell.DictAmerican))
+	p.SetMatches(espanso.DictToMatches(misspell.DictAmerican).SetWord(true))
 	p.SetVersion(version)
 	if err := p.Write(); err != nil {
 		panic(err)
@@ -148,10 +148,6 @@ func genLongDesc(pkg string, teaser string, example string) string {
 	s := fmt.Sprintf("# %s\n\n", pkg)
 	s += fmt.Sprintf("%s is a espanso package which is replacing %s.\n", pkg, teaser)
 	s += `The package is based on [github.com/client9/misspell](https://github.com/client9/misspell).
-
-Currently the package is not working accurate since something like an
-**abbreviation mode** is missing in espanso. For further details take a look
-at issue [#82](https://github.com/federico-terzi/espanso/issues/82).
 
 ## Installation
 

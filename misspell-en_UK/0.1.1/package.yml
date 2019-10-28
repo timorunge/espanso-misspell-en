@@ -3,2955 +3,4432 @@ parent: default
 matches:
   - trigger: "institutionalization"
     replace: "institutionalisation"
+    word: true
   - trigger: "internationalization"
     replace: "internationalisation"
+    word: true
   - trigger: "professionalization"
     replace: "professionalisation"
+    word: true
   - trigger: "compartmentalizing"
     replace: "compartmentalising"
+    word: true
   - trigger: "institutionalizing"
     replace: "institutionalising"
+    word: true
   - trigger: "internationalizing"
     replace: "internationalising"
+    word: true
   - trigger: "compartmentalized"
     replace: "compartmentalised"
+    word: true
   - trigger: "compartmentalizes"
     replace: "compartmentalises"
+    word: true
   - trigger: "decriminalization"
     replace: "decriminalisation"
+    word: true
   - trigger: "denationalization"
     replace: "denationalisation"
+    word: true
   - trigger: "fictionalizations"
     replace: "fictionalisations"
+    word: true
   - trigger: "institutionalized"
     replace: "institutionalised"
+    word: true
   - trigger: "institutionalizes"
     replace: "institutionalises"
+    word: true
   - trigger: "intellectualizing"
     replace: "intellectualising"
+    word: true
   - trigger: "internationalized"
     replace: "internationalised"
+    word: true
   - trigger: "internationalizes"
     replace: "internationalises"
+    word: true
   - trigger: "pedestrianization"
     replace: "pedestrianisation"
+    word: true
   - trigger: "professionalizing"
     replace: "professionalising"
+    word: true
   - trigger: "compartmentalize"
     replace: "compartmentalise"
+    word: true
   - trigger: "decentralization"
     replace: "decentralisation"
+    word: true
   - trigger: "demilitarization"
     replace: "demilitarisation"
+    word: true
   - trigger: "externalizations"
     replace: "externalisations"
+    word: true
   - trigger: "fictionalization"
     replace: "fictionalisation"
+    word: true
   - trigger: "institutionalize"
     replace: "institutionalise"
+    word: true
   - trigger: "intellectualized"
     replace: "intellectualised"
+    word: true
   - trigger: "intellectualizes"
     replace: "intellectualises"
+    word: true
   - trigger: "internationalize"
     replace: "internationalise"
+    word: true
   - trigger: "nationalizations"
     replace: "nationalisations"
+    word: true
   - trigger: "professionalized"
     replace: "professionalised"
+    word: true
   - trigger: "professionalizes"
     replace: "professionalises"
+    word: true
   - trigger: "rationalizations"
     replace: "rationalisations"
+    word: true
   - trigger: "sensationalizing"
     replace: "sensationalising"
+    word: true
   - trigger: "sentimentalizing"
     replace: "sentimentalising"
+    word: true
   - trigger: "acclimatization"
     replace: "acclimatisation"
+    word: true
   - trigger: "commercializing"
     replace: "commercialising"
+    word: true
   - trigger: "conceptualizing"
     replace: "conceptualising"
+    word: true
   - trigger: "contextualizing"
     replace: "contextualising"
+    word: true
   - trigger: "crystallization"
     replace: "crystallisation"
+    word: true
   - trigger: "decriminalizing"
     replace: "decriminalising"
+    word: true
   - trigger: "democratization"
     replace: "democratisation"
+    word: true
   - trigger: "denationalizing"
     replace: "denationalising"
+    word: true
   - trigger: "depersonalizing"
     replace: "depersonalising"
+    word: true
   - trigger: "desensitization"
     replace: "desensitisation"
+    word: true
   - trigger: "disorganization"
     replace: "disorganisation"
+    word: true
   - trigger: "extemporization"
     replace: "extemporisation"
+    word: true
   - trigger: "externalization"
     replace: "externalisation"
+    word: true
   - trigger: "familiarization"
     replace: "familiarisation"
+    word: true
   - trigger: "generalizations"
     replace: "generalisations"
+    word: true
   - trigger: "hospitalization"
     replace: "hospitalisation"
+    word: true
   - trigger: "individualizing"
     replace: "individualising"
+    word: true
   - trigger: "industrializing"
     replace: "industrialising"
+    word: true
   - trigger: "intellectualize"
     replace: "intellectualise"
+    word: true
   - trigger: "internalization"
     replace: "internalisation"
+    word: true
   - trigger: "maneuverability"
     replace: "manoeuvrability"
+    word: true
   - trigger: "materialization"
     replace: "materialisation"
+    word: true
   - trigger: "miniaturization"
     replace: "miniaturisation"
+    word: true
   - trigger: "nationalization"
     replace: "nationalisation"
+    word: true
   - trigger: "overemphasizing"
     replace: "overemphasising"
+    word: true
   - trigger: "paleontologists"
     replace: "palaeontologists"
+    word: true
   - trigger: "particularizing"
     replace: "particularising"
+    word: true
   - trigger: "pedestrianizing"
     replace: "pedestrianising"
+    word: true
   - trigger: "professionalize"
     replace: "professionalise"
+    word: true
   - trigger: "psychoanalyzing"
     replace: "psychoanalysing"
+    word: true
   - trigger: "rationalization"
     replace: "rationalisation"
+    word: true
   - trigger: "reorganizations"
     replace: "reorganisations"
+    word: true
   - trigger: "revolutionizing"
     replace: "revolutionising"
+    word: true
   - trigger: "sensationalized"
     replace: "sensationalised"
+    word: true
   - trigger: "sensationalizes"
     replace: "sensationalises"
+    word: true
   - trigger: "sentimentalized"
     replace: "sentimentalised"
+    word: true
   - trigger: "sentimentalizes"
     replace: "sentimentalises"
+    word: true
   - trigger: "specializations"
     replace: "specialisations"
+    word: true
   - trigger: "standardization"
     replace: "standardisation"
+    word: true
   - trigger: "synchronization"
     replace: "synchronisation"
+    word: true
   - trigger: "systematization"
     replace: "systematisation"
+    word: true
   - trigger: "aggrandizement"
     replace: "aggrandisement"
+    word: true
   - trigger: "characterizing"
     replace: "characterising"
+    word: true
   - trigger: "collectivizing"
     replace: "collectivising"
+    word: true
   - trigger: "commercialized"
     replace: "commercialised"
+    word: true
   - trigger: "commercializes"
     replace: "commercialises"
+    word: true
   - trigger: "conceptualized"
     replace: "conceptualised"
+    word: true
   - trigger: "conceptualizes"
     replace: "conceptualises"
+    word: true
   - trigger: "contextualized"
     replace: "contextualised"
+    word: true
   - trigger: "contextualizes"
     replace: "contextualises"
+    word: true
   - trigger: "decentralizing"
     replace: "decentralising"
+    word: true
   - trigger: "decriminalized"
     replace: "decriminalised"
+    word: true
   - trigger: "decriminalizes"
     replace: "decriminalises"
+    word: true
   - trigger: "dehumanization"
     replace: "dehumanisation"
+    word: true
   - trigger: "demilitarizing"
     replace: "demilitarising"
+    word: true
   - trigger: "demobilization"
     replace: "demobilisation"
+    word: true
   - trigger: "demoralization"
     replace: "demoralisation"
+    word: true
   - trigger: "denationalized"
     replace: "denationalised"
+    word: true
   - trigger: "denationalizes"
     replace: "denationalises"
+    word: true
   - trigger: "depersonalized"
     replace: "depersonalised"
+    word: true
   - trigger: "depersonalizes"
     replace: "depersonalises"
+    word: true
   - trigger: "dramatizations"
     replace: "dramatisations"
+    word: true
   - trigger: "editorializing"
     replace: "editorialising"
+    word: true
   - trigger: "fictionalizing"
     replace: "fictionalising"
+    word: true
   - trigger: "fraternization"
     replace: "fraternisation"
+    word: true
   - trigger: "generalization"
     replace: "generalisation"
+    word: true
   - trigger: "immobilization"
     replace: "immobilisation"
+    word: true
   - trigger: "individualized"
     replace: "individualised"
+    word: true
   - trigger: "individualizes"
     replace: "individualises"
+    word: true
   - trigger: "industrialized"
     replace: "industrialised"
+    word: true
   - trigger: "industrializes"
     replace: "industrialises"
+    word: true
   - trigger: "liberalization"
     replace: "liberalisation"
+    word: true
   - trigger: "monopolization"
     replace: "monopolisation"
+    word: true
   - trigger: "naturalization"
     replace: "naturalisation"
+    word: true
   - trigger: "neighborliness"
     replace: "neighbourliness"
+    word: true
   - trigger: "neutralization"
     replace: "neutralisation"
+    word: true
   - trigger: "organizational"
     replace: "organisational"
+    word: true
   - trigger: "outmaneuvering"
     replace: "outmanoeuvring"
+    word: true
   - trigger: "overemphasized"
     replace: "overemphasised"
+    word: true
   - trigger: "overemphasizes"
     replace: "overemphasises"
+    word: true
   - trigger: "paleontologist"
     replace: "palaeontologist"
+    word: true
   - trigger: "particularized"
     replace: "particularised"
+    word: true
   - trigger: "particularizes"
     replace: "particularises"
+    word: true
   - trigger: "pasteurization"
     replace: "pasteurisation"
+    word: true
   - trigger: "pedestrianized"
     replace: "pedestrianised"
+    word: true
   - trigger: "pedestrianizes"
     replace: "pedestrianises"
+    word: true
   - trigger: "philosophizing"
     replace: "philosophising"
+    word: true
   - trigger: "politicization"
     replace: "politicisation"
+    word: true
   - trigger: "popularization"
     replace: "popularisation"
+    word: true
   - trigger: "pressurization"
     replace: "pressurisation"
+    word: true
   - trigger: "prioritization"
     replace: "prioritisation"
+    word: true
   - trigger: "privatizations"
     replace: "privatisations"
+    word: true
   - trigger: "propagandizing"
     replace: "propagandising"
+    word: true
   - trigger: "psychoanalyzed"
     replace: "psychoanalysed"
+    word: true
   - trigger: "psychoanalyzes"
     replace: "psychoanalyses"
+    word: true
   - trigger: "reconnoitering"
     replace: "reconnoitring"
+    word: true
   - trigger: "regularization"
     replace: "regularisation"
+    word: true
   - trigger: "reorganization"
     replace: "reorganisation"
+    word: true
   - trigger: "revolutionized"
     replace: "revolutionised"
+    word: true
   - trigger: "revolutionizes"
     replace: "revolutionises"
+    word: true
   - trigger: "secularization"
     replace: "secularisation"
+    word: true
   - trigger: "sensationalize"
     replace: "sensationalise"
+    word: true
   - trigger: "sentimentalize"
     replace: "sentimentalise"
+    word: true
   - trigger: "serializations"
     replace: "serialisations"
+    word: true
   - trigger: "specialization"
     replace: "specialisation"
+    word: true
   - trigger: "sterilizations"
     replace: "sterilisations"
+    word: true
   - trigger: "stigmatization"
     replace: "stigmatisation"
+    word: true
   - trigger: "transistorized"
     replace: "transistorised"
+    word: true
   - trigger: "unrecognizable"
     replace: "unrecognisable"
+    word: true
   - trigger: "visualizations"
     replace: "visualisations"
+    word: true
   - trigger: "westernization"
     replace: "westernisation"
+    word: true
   - trigger: "accessorizing"
     replace: "accessorising"
+    word: true
   - trigger: "acclimatizing"
     replace: "acclimatising"
+    word: true
   - trigger: "amortizations"
     replace: "amortisations"
+    word: true
   - trigger: "amphitheaters"
     replace: "amphitheatres"
+    word: true
   - trigger: "anesthetizing"
     replace: "anaesthetising"
+    word: true
   - trigger: "archeologists"
     replace: "archaeologists"
+    word: true
   - trigger: "breathalyzers"
     replace: "breathalysers"
+    word: true
   - trigger: "breathalyzing"
     replace: "breathalysing"
+    word: true
   - trigger: "cannibalizing"
     replace: "cannibalising"
+    word: true
   - trigger: "characterized"
     replace: "characterised"
+    word: true
   - trigger: "characterizes"
     replace: "characterises"
+    word: true
   - trigger: "circularizing"
     replace: "circularising"
+    word: true
   - trigger: "collectivized"
     replace: "collectivised"
+    word: true
   - trigger: "collectivizes"
     replace: "collectivises"
+    word: true
   - trigger: "commercialize"
     replace: "commercialise"
+    word: true
   - trigger: "computerizing"
     replace: "computerising"
+    word: true
   - trigger: "conceptualize"
     replace: "conceptualise"
+    word: true
   - trigger: "contextualize"
     replace: "contextualise"
+    word: true
   - trigger: "criminalizing"
     replace: "criminalising"
+    word: true
   - trigger: "crystallizing"
     replace: "crystallising"
+    word: true
   - trigger: "decentralized"
     replace: "decentralised"
+    word: true
   - trigger: "decentralizes"
     replace: "decentralises"
+    word: true
   - trigger: "decriminalize"
     replace: "decriminalise"
+    word: true
   - trigger: "demilitarized"
     replace: "demilitarised"
+    word: true
   - trigger: "demilitarizes"
     replace: "demilitarises"
+    word: true
   - trigger: "democratizing"
     replace: "democratising"
+    word: true
   - trigger: "denationalize"
     replace: "denationalise"
+    word: true
   - trigger: "depersonalize"
     replace: "depersonalise"
+    word: true
   - trigger: "desensitizing"
     replace: "desensitising"
+    word: true
   - trigger: "destabilizing"
     replace: "destabilising"
+    word: true
   - trigger: "disemboweling"
     replace: "disembowelling"
+    word: true
   - trigger: "dramatization"
     replace: "dramatisation"
+    word: true
   - trigger: "editorialized"
     replace: "editorialised"
+    word: true
   - trigger: "editorializes"
     replace: "editorialises"
+    word: true
   - trigger: "extemporizing"
     replace: "extemporising"
+    word: true
   - trigger: "externalizing"
     replace: "externalising"
+    word: true
   - trigger: "familiarizing"
     replace: "familiarising"
+    word: true
   - trigger: "fertilization"
     replace: "fertilisation"
+    word: true
   - trigger: "fictionalized"
     replace: "fictionalised"
+    word: true
   - trigger: "fictionalizes"
     replace: "fictionalises"
+    word: true
   - trigger: "formalization"
     replace: "formalisation"
+    word: true
   - trigger: "fossilization"
     replace: "fossilisation"
+    word: true
   - trigger: "globalization"
     replace: "globalisation"
+    word: true
   - trigger: "gynecological"
     replace: "gynaecological"
+    word: true
   - trigger: "gynecologists"
     replace: "gynaecologists"
+    word: true
   - trigger: "harmonization"
     replace: "harmonisation"
+    word: true
   - trigger: "hematological"
     replace: "haematological"
+    word: true
   - trigger: "hematologists"
     replace: "haematologists"
+    word: true
   - trigger: "hospitalizing"
     replace: "hospitalising"
+    word: true
   - trigger: "hypothesizing"
     replace: "hypothesising"
+    word: true
   - trigger: "immortalizing"
     replace: "immortalising"
+    word: true
   - trigger: "individualize"
     replace: "individualise"
+    word: true
   - trigger: "industrialize"
     replace: "industrialise"
+    word: true
   - trigger: "internalizing"
     replace: "internalising"
+    word: true
   - trigger: "marginalizing"
     replace: "marginalising"
+    word: true
   - trigger: "materializing"
     replace: "materialising"
+    word: true
   - trigger: "mechanization"
     replace: "mechanisation"
+    word: true
   - trigger: "memorializing"
     replace: "memorialising"
+    word: true
   - trigger: "miniaturizing"
     replace: "miniaturising"
+    word: true
   - trigger: "nationalizing"
     replace: "nationalising"
+    word: true
   - trigger: "neighborhoods"
     replace: "neighbourhoods"
+    word: true
   - trigger: "normalization"
     replace: "normalisation"
+    word: true
   - trigger: "organizations"
     replace: "organisations"
+    word: true
   - trigger: "outmaneuvered"
     replace: "outmanoeuvred"
+    word: true
   - trigger: "overemphasize"
     replace: "overemphasise"
+    word: true
   - trigger: "particularize"
     replace: "particularise"
+    word: true
   - trigger: "passivization"
     replace: "passivisation"
+    word: true
   - trigger: "patronizingly"
     replace: "patronisingly"
+    word: true
   - trigger: "pedestrianize"
     replace: "pedestrianise"
+    word: true
   - trigger: "pediatricians"
     replace: "paediatricians"
+    word: true
   - trigger: "personalizing"
     replace: "personalising"
+    word: true
   - trigger: "philosophized"
     replace: "philosophised"
+    word: true
   - trigger: "philosophizes"
     replace: "philosophises"
+    word: true
   - trigger: "privatization"
     replace: "privatisation"
+    word: true
   - trigger: "propagandized"
     replace: "propagandised"
+    word: true
   - trigger: "propagandizes"
     replace: "propagandises"
+    word: true
   - trigger: "proselytizers"
     replace: "proselytisers"
+    word: true
   - trigger: "proselytizing"
     replace: "proselytising"
+    word: true
   - trigger: "psychoanalyze"
     replace: "psychoanalyse"
+    word: true
   - trigger: "pulverization"
     replace: "pulverisation"
+    word: true
   - trigger: "rationalizing"
     replace: "rationalising"
+    word: true
   - trigger: "reconnoitered"
     replace: "reconnoitred"
+    word: true
   - trigger: "revolutionize"
     replace: "revolutionise"
+    word: true
   - trigger: "romanticizing"
     replace: "romanticising"
+    word: true
   - trigger: "serialization"
     replace: "serialisation"
+    word: true
   - trigger: "socialization"
     replace: "socialisation"
+    word: true
   - trigger: "standardizing"
     replace: "standardising"
+    word: true
   - trigger: "sterilization"
     replace: "sterilisation"
+    word: true
   - trigger: "subsidization"
     replace: "subsidisation"
+    word: true
   - trigger: "synchronizing"
     replace: "synchronising"
+    word: true
   - trigger: "systematizing"
     replace: "systematising"
+    word: true
   - trigger: "tantalizingly"
     replace: "tantalisingly"
+    word: true
   - trigger: "underutilized"
     replace: "underutilised"
+    word: true
   - trigger: "victimization"
     replace: "victimisation"
+    word: true
   - trigger: "visualization"
     replace: "visualisation"
+    word: true
   - trigger: "vocalizations"
     replace: "vocalisations"
+    word: true
   - trigger: "vulgarization"
     replace: "vulgarisation"
+    word: true
   - trigger: "accessorized"
     replace: "accessorised"
+    word: true
   - trigger: "accessorizes"
     replace: "accessorises"
+    word: true
   - trigger: "acclimatized"
     replace: "acclimatised"
+    word: true
   - trigger: "acclimatizes"
     replace: "acclimatises"
+    word: true
   - trigger: "amortization"
     replace: "amortisation"
+    word: true
   - trigger: "amphitheater"
     replace: "amphitheatre"
+    word: true
   - trigger: "anesthetists"
     replace: "anaesthetists"
+    word: true
   - trigger: "anesthetized"
     replace: "anaesthetised"
+    word: true
   - trigger: "anesthetizes"
     replace: "anaesthetises"
+    word: true
   - trigger: "antagonizing"
     replace: "antagonising"
+    word: true
   - trigger: "appetizingly"
     replace: "appetisingly"
+    word: true
   - trigger: "archeologist"
     replace: "archaeologist"
+    word: true
   - trigger: "backpedaling"
     replace: "backpedalling"
+    word: true
   - trigger: "bastardizing"
     replace: "bastardising"
+    word: true
   - trigger: "behaviorists"
     replace: "behaviourists"
+    word: true
   - trigger: "bowdlerizing"
     replace: "bowdlerising"
+    word: true
   - trigger: "breathalyzed"
     replace: "breathalysed"
+    word: true
   - trigger: "breathalyzes"
     replace: "breathalyses"
+    word: true
   - trigger: "cannibalized"
     replace: "cannibalised"
+    word: true
   - trigger: "cannibalizes"
     replace: "cannibalises"
+    word: true
   - trigger: "capitalizing"
     replace: "capitalising"
+    word: true
   - trigger: "caramelizing"
     replace: "caramelising"
+    word: true
   - trigger: "categorizing"
     replace: "categorising"
+    word: true
   - trigger: "centerpieces"
     replace: "centrepieces"
+    word: true
   - trigger: "centralizing"
     replace: "centralising"
+    word: true
   - trigger: "characterize"
     replace: "characterise"
+    word: true
   - trigger: "circularized"
     replace: "circularised"
+    word: true
   - trigger: "circularizes"
     replace: "circularises"
+    word: true
   - trigger: "clarinetists"
     replace: "clarinettists"
+    word: true
   - trigger: "collectivize"
     replace: "collectivise"
+    word: true
   - trigger: "colonization"
     replace: "colonisation"
+    word: true
   - trigger: "computerized"
     replace: "computerised"
+    word: true
   - trigger: "computerizes"
     replace: "computerises"
+    word: true
   - trigger: "criminalized"
     replace: "criminalised"
+    word: true
   - trigger: "criminalizes"
     replace: "criminalises"
+    word: true
   - trigger: "crystallized"
     replace: "crystallised"
+    word: true
   - trigger: "crystallizes"
     replace: "crystallises"
+    word: true
   - trigger: "decentralize"
     replace: "decentralise"
+    word: true
   - trigger: "dehumanizing"
     replace: "dehumanising"
+    word: true
   - trigger: "demilitarize"
     replace: "demilitarise"
+    word: true
   - trigger: "demobilizing"
     replace: "demobilising"
+    word: true
   - trigger: "democratized"
     replace: "democratised"
+    word: true
   - trigger: "democratizes"
     replace: "democratises"
+    word: true
   - trigger: "demoralizing"
     replace: "demoralising"
+    word: true
   - trigger: "desensitized"
     replace: "desensitised"
+    word: true
   - trigger: "desensitizes"
     replace: "desensitises"
+    word: true
   - trigger: "destabilized"
     replace: "destabilised"
+    word: true
   - trigger: "destabilizes"
     replace: "destabilises"
+    word: true
   - trigger: "disemboweled"
     replace: "disembowelled"
+    word: true
   - trigger: "dishonorable"
     replace: "dishonourable"
+    word: true
   - trigger: "dishonorably"
     replace: "dishonourably"
+    word: true
   - trigger: "disorganized"
     replace: "disorganised"
+    word: true
   - trigger: "editorialize"
     replace: "editorialise"
+    word: true
   - trigger: "equalization"
     replace: "equalisation"
+    word: true
   - trigger: "evangelizing"
     replace: "evangelising"
+    word: true
   - trigger: "extemporized"
     replace: "extemporised"
+    word: true
   - trigger: "extemporizes"
     replace: "extemporises"
+    word: true
   - trigger: "externalized"
     replace: "externalised"
+    word: true
   - trigger: "externalizes"
     replace: "externalises"
+    word: true
   - trigger: "familiarized"
     replace: "familiarised"
+    word: true
   - trigger: "familiarizes"
     replace: "familiarises"
+    word: true
   - trigger: "fictionalize"
     replace: "fictionalise"
+    word: true
   - trigger: "finalization"
     replace: "finalisation"
+    word: true
   - trigger: "fraternizing"
     replace: "fraternising"
+    word: true
   - trigger: "generalizing"
     replace: "generalising"
+    word: true
   - trigger: "gynecologist"
     replace: "gynaecologist"
+    word: true
   - trigger: "hematologist"
     replace: "haematologist"
+    word: true
   - trigger: "hemophiliacs"
     replace: "haemophiliacs"
+    word: true
   - trigger: "hemorrhaging"
     replace: "haemorrhaging"
+    word: true
   - trigger: "homogenizing"
     replace: "homogenising"
+    word: true
   - trigger: "hospitalized"
     replace: "hospitalised"
+    word: true
   - trigger: "hospitalizes"
     replace: "hospitalises"
+    word: true
   - trigger: "hypothesized"
     replace: "hypothesised"
+    word: true
   - trigger: "hypothesizes"
     replace: "hypothesises"
+    word: true
   - trigger: "idealization"
     replace: "idealisation"
+    word: true
   - trigger: "immobilizers"
     replace: "immobilisers"
+    word: true
   - trigger: "immobilizing"
     replace: "immobilising"
+    word: true
   - trigger: "immortalized"
     replace: "immortalised"
+    word: true
   - trigger: "immortalizes"
     replace: "immortalises"
+    word: true
   - trigger: "immunization"
     replace: "immunisation"
+    word: true
   - trigger: "initializing"
     replace: "initialising"
+    word: true
   - trigger: "installments"
     replace: "instalments"
+    word: true
   - trigger: "internalized"
     replace: "internalised"
+    word: true
   - trigger: "internalizes"
     replace: "internalises"
+    word: true
   - trigger: "jeopardizing"
     replace: "jeopardising"
+    word: true
   - trigger: "legalization"
     replace: "legalisation"
+    word: true
   - trigger: "legitimizing"
     replace: "legitimising"
+    word: true
   - trigger: "liberalizing"
     replace: "liberalising"
+    word: true
   - trigger: "maneuverable"
     replace: "manoeuvrable"
+    word: true
   - trigger: "maneuverings"
     replace: "manoeuvrings"
+    word: true
   - trigger: "marginalized"
     replace: "marginalised"
+    word: true
   - trigger: "marginalizes"
     replace: "marginalises"
+    word: true
   - trigger: "materialized"
     replace: "materialised"
+    word: true
   - trigger: "materializes"
     replace: "materialises"
+    word: true
   - trigger: "maximization"
     replace: "maximisation"
+    word: true
   - trigger: "memorialized"
     replace: "memorialised"
+    word: true
   - trigger: "memorializes"
     replace: "memorialises"
+    word: true
   - trigger: "metabolizing"
     replace: "metabolising"
+    word: true
   - trigger: "militarizing"
     replace: "militarising"
+    word: true
   - trigger: "miniaturized"
     replace: "miniaturised"
+    word: true
   - trigger: "miniaturizes"
     replace: "miniaturises"
+    word: true
   - trigger: "miscataloged"
     replace: "miscatalogued"
+    word: true
   - trigger: "misdemeanors"
     replace: "misdemeanours"
+    word: true
   - trigger: "mobilization"
     replace: "mobilisation"
+    word: true
   - trigger: "moisturizers"
     replace: "moisturisers"
+    word: true
   - trigger: "moisturizing"
     replace: "moisturising"
+    word: true
   - trigger: "monopolizing"
     replace: "monopolising"
+    word: true
   - trigger: "multicolored"
     replace: "multicoloured"
+    word: true
   - trigger: "nationalized"
     replace: "nationalised"
+    word: true
   - trigger: "nationalizes"
     replace: "nationalises"
+    word: true
   - trigger: "naturalizing"
     replace: "naturalising"
+    word: true
   - trigger: "neighborhood"
     replace: "neighbourhood"
+    word: true
   - trigger: "neutralizing"
     replace: "neutralising"
+    word: true
   - trigger: "organization"
     replace: "organisation"
+    word: true
   - trigger: "outmaneuvers"
     replace: "outmanoeuvres"
+    word: true
   - trigger: "paleontology"
     replace: "palaeontology"
+    word: true
   - trigger: "pasteurizing"
     replace: "pasteurising"
+    word: true
   - trigger: "pediatrician"
     replace: "paediatrician"
+    word: true
   - trigger: "personalized"
     replace: "personalised"
+    word: true
   - trigger: "personalizes"
     replace: "personalises"
+    word: true
   - trigger: "philosophize"
     replace: "philosophise"
+    word: true
   - trigger: "plagiarizing"
     replace: "plagiarising"
+    word: true
   - trigger: "polarization"
     replace: "polarisation"
+    word: true
   - trigger: "politicizing"
     replace: "politicising"
+    word: true
   - trigger: "popularizing"
     replace: "popularising"
+    word: true
   - trigger: "pressurizing"
     replace: "pressurising"
+    word: true
   - trigger: "prioritizing"
     replace: "prioritising"
+    word: true
   - trigger: "propagandize"
     replace: "propagandise"
+    word: true
   - trigger: "proselytized"
     replace: "proselytised"
+    word: true
   - trigger: "proselytizer"
     replace: "proselytiser"
+    word: true
   - trigger: "proselytizes"
     replace: "proselytises"
+    word: true
   - trigger: "radicalizing"
     replace: "radicalising"
+    word: true
   - trigger: "rationalized"
     replace: "rationalised"
+    word: true
   - trigger: "rationalizes"
     replace: "rationalises"
+    word: true
   - trigger: "realizations"
     replace: "realisations"
+    word: true
   - trigger: "recognizable"
     replace: "recognisable"
+    word: true
   - trigger: "recognizably"
     replace: "recognisably"
+    word: true
   - trigger: "recognizance"
     replace: "recognisance"
+    word: true
   - trigger: "reconnoiters"
     replace: "reconnoitres"
+    word: true
   - trigger: "regularizing"
     replace: "regularising"
+    word: true
   - trigger: "reorganizing"
     replace: "reorganising"
+    word: true
   - trigger: "revitalizing"
     replace: "revitalising"
+    word: true
   - trigger: "rhapsodizing"
     replace: "rhapsodising"
+    word: true
   - trigger: "romanticized"
     replace: "romanticised"
+    word: true
   - trigger: "romanticizes"
     replace: "romanticises"
+    word: true
   - trigger: "scandalizing"
     replace: "scandalising"
+    word: true
   - trigger: "scrutinizing"
     replace: "scrutinising"
+    word: true
   - trigger: "secularizing"
     replace: "secularising"
+    word: true
   - trigger: "standardized"
     replace: "standardised"
+    word: true
   - trigger: "standardizes"
     replace: "standardises"
+    word: true
   - trigger: "stigmatizing"
     replace: "stigmatising"
+    word: true
   - trigger: "sympathizers"
     replace: "sympathisers"
+    word: true
   - trigger: "sympathizing"
     replace: "sympathising"
+    word: true
   - trigger: "synchronized"
     replace: "synchronised"
+    word: true
   - trigger: "synchronizes"
     replace: "synchronises"
+    word: true
   - trigger: "synthesizing"
     replace: "synthesising"
+    word: true
   - trigger: "systematized"
     replace: "systematised"
+    word: true
   - trigger: "systematizes"
     replace: "systematises"
+    word: true
   - trigger: "theatergoers"
     replace: "theatregoers"
+    word: true
   - trigger: "traumatizing"
     replace: "traumatising"
+    word: true
   - trigger: "trivializing"
     replace: "trivialising"
+    word: true
   - trigger: "unauthorized"
     replace: "unauthorised"
+    word: true
   - trigger: "unionization"
     replace: "unionisation"
+    word: true
   - trigger: "unrecognized"
     replace: "unrecognised"
+    word: true
   - trigger: "urbanization"
     replace: "urbanisation"
+    word: true
   - trigger: "vaporization"
     replace: "vaporisation"
+    word: true
   - trigger: "vocalization"
     replace: "vocalisation"
+    word: true
   - trigger: "westernizing"
     replace: "westernising"
+    word: true
   - trigger: "accessorize"
     replace: "accessorise"
+    word: true
   - trigger: "acclimatize"
     replace: "acclimatise"
+    word: true
   - trigger: "agonizingly"
     replace: "agonisingly"
+    word: true
   - trigger: "amortizable"
     replace: "amortisable"
+    word: true
   - trigger: "anesthetics"
     replace: "anaesthetics"
+    word: true
   - trigger: "anesthetist"
     replace: "anaesthetist"
+    word: true
   - trigger: "anesthetize"
     replace: "anaesthetise"
+    word: true
   - trigger: "anglicizing"
     replace: "anglicising"
+    word: true
   - trigger: "antagonized"
     replace: "antagonised"
+    word: true
   - trigger: "antagonizes"
     replace: "antagonises"
+    word: true
   - trigger: "apologizing"
     replace: "apologising"
+    word: true
   - trigger: "backpedaled"
     replace: "backpedalled"
+    word: true
   - trigger: "bastardized"
     replace: "bastardised"
+    word: true
   - trigger: "bastardizes"
     replace: "bastardises"
+    word: true
   - trigger: "behaviorism"
     replace: "behaviourism"
+    word: true
   - trigger: "behaviorist"
     replace: "behaviourist"
+    word: true
   - trigger: "bowdlerized"
     replace: "bowdlerised"
+    word: true
   - trigger: "bowdlerizes"
     replace: "bowdlerises"
+    word: true
   - trigger: "brutalizing"
     replace: "brutalising"
+    word: true
   - trigger: "cannibalize"
     replace: "cannibalise"
+    word: true
   - trigger: "capitalized"
     replace: "capitalised"
+    word: true
   - trigger: "capitalizes"
     replace: "capitalises"
+    word: true
   - trigger: "caramelized"
     replace: "caramelised"
+    word: true
   - trigger: "caramelizes"
     replace: "caramelises"
+    word: true
   - trigger: "carbonizing"
     replace: "carbonising"
+    word: true
   - trigger: "categorized"
     replace: "categorised"
+    word: true
   - trigger: "categorizes"
     replace: "categorises"
+    word: true
   - trigger: "cauterizing"
     replace: "cauterising"
+    word: true
   - trigger: "centerfolds"
     replace: "centrefolds"
+    word: true
   - trigger: "centerpiece"
     replace: "centrepiece"
+    word: true
   - trigger: "centiliters"
     replace: "centilitres"
+    word: true
   - trigger: "centimeters"
     replace: "centimetres"
+    word: true
   - trigger: "centralized"
     replace: "centralised"
+    word: true
   - trigger: "centralizes"
     replace: "centralises"
+    word: true
   - trigger: "circularize"
     replace: "circularise"
+    word: true
   - trigger: "clarinetist"
     replace: "clarinettist"
+    word: true
   - trigger: "computerize"
     replace: "computerise"
+    word: true
   - trigger: "criminalize"
     replace: "criminalise"
+    word: true
   - trigger: "criticizing"
     replace: "criticising"
+    word: true
   - trigger: "crystallize"
     replace: "crystallise"
+    word: true
   - trigger: "customizing"
     replace: "customising"
+    word: true
   - trigger: "defenseless"
     replace: "defenceless"
+    word: true
   - trigger: "dehumanized"
     replace: "dehumanised"
+    word: true
   - trigger: "dehumanizes"
     replace: "dehumanises"
+    word: true
   - trigger: "demobilized"
     replace: "demobilised"
+    word: true
   - trigger: "demobilizes"
     replace: "demobilises"
+    word: true
   - trigger: "democratize"
     replace: "democratise"
+    word: true
   - trigger: "demoralized"
     replace: "demoralised"
+    word: true
   - trigger: "demoralizes"
     replace: "demoralises"
+    word: true
   - trigger: "deodorizing"
     replace: "deodorising"
+    word: true
   - trigger: "desensitize"
     replace: "desensitise"
+    word: true
   - trigger: "destabilize"
     replace: "destabilise"
+    word: true
   - trigger: "discoloring"
     replace: "discolouring"
+    word: true
   - trigger: "dishonoring"
     replace: "dishonouring"
+    word: true
   - trigger: "dramatizing"
     replace: "dramatising"
+    word: true
   - trigger: "economizing"
     replace: "economising"
+    word: true
   - trigger: "empathizing"
     replace: "empathising"
+    word: true
   - trigger: "emphasizing"
     replace: "emphasising"
+    word: true
   - trigger: "endeavoring"
     replace: "endeavouring"
+    word: true
   - trigger: "epitomizing"
     replace: "epitomising"
+    word: true
   - trigger: "esophaguses"
     replace: "oesophaguses"
+    word: true
   - trigger: "evangelized"
     replace: "evangelised"
+    word: true
   - trigger: "evangelizes"
     replace: "evangelises"
+    word: true
   - trigger: "extemporize"
     replace: "extemporise"
+    word: true
   - trigger: "externalize"
     replace: "externalise"
+    word: true
   - trigger: "factorizing"
     replace: "factorising"
+    word: true
   - trigger: "familiarize"
     replace: "familiarise"
+    word: true
   - trigger: "fantasizing"
     replace: "fantasising"
+    word: true
   - trigger: "fertilizers"
     replace: "fertilisers"
+    word: true
   - trigger: "fertilizing"
     replace: "fertilising"
+    word: true
   - trigger: "formalizing"
     replace: "formalising"
+    word: true
   - trigger: "fossilizing"
     replace: "fossilising"
+    word: true
   - trigger: "fraternized"
     replace: "fraternised"
+    word: true
   - trigger: "fraternizes"
     replace: "fraternises"
+    word: true
   - trigger: "fulfillment"
     replace: "fulfilment"
+    word: true
   - trigger: "galvanizing"
     replace: "galvanising"
+    word: true
   - trigger: "generalized"
     replace: "generalised"
+    word: true
   - trigger: "generalizes"
     replace: "generalises"
+    word: true
   - trigger: "ghettoizing"
     replace: "ghettoising"
+    word: true
   - trigger: "globalizing"
     replace: "globalising"
+    word: true
   - trigger: "harmonizing"
     replace: "harmonising"
+    word: true
   - trigger: "hemophiliac"
     replace: "haemophiliac"
+    word: true
   - trigger: "hemorrhaged"
     replace: "haemorrhaged"
+    word: true
   - trigger: "hemorrhages"
     replace: "haemorrhages"
+    word: true
   - trigger: "hemorrhoids"
     replace: "haemorrhoids"
+    word: true
   - trigger: "homogenized"
     replace: "homogenised"
+    word: true
   - trigger: "homogenizes"
     replace: "homogenises"
+    word: true
   - trigger: "hospitalize"
     replace: "hospitalise"
+    word: true
   - trigger: "hybridizing"
     replace: "hybridising"
+    word: true
   - trigger: "hypnotizing"
     replace: "hypnotising"
+    word: true
   - trigger: "hypothesize"
     replace: "hypothesise"
+    word: true
   - trigger: "immobilized"
     replace: "immobilised"
+    word: true
   - trigger: "immobilizer"
     replace: "immobiliser"
+    word: true
   - trigger: "immobilizes"
     replace: "immobilises"
+    word: true
   - trigger: "immortalize"
     replace: "immortalise"
+    word: true
   - trigger: "initialized"
     replace: "initialised"
+    word: true
   - trigger: "initializes"
     replace: "initialises"
+    word: true
   - trigger: "installment"
     replace: "instalment"
+    word: true
   - trigger: "internalize"
     replace: "internalise"
+    word: true
   - trigger: "italicizing"
     replace: "italicising"
+    word: true
   - trigger: "jeopardized"
     replace: "jeopardised"
+    word: true
   - trigger: "jeopardizes"
     replace: "jeopardises"
+    word: true
   - trigger: "legitimized"
     replace: "legitimised"
+    word: true
   - trigger: "legitimizes"
     replace: "legitimises"
+    word: true
   - trigger: "liberalized"
     replace: "liberalised"
+    word: true
   - trigger: "liberalizes"
     replace: "liberalises"
+    word: true
   - trigger: "lionization"
     replace: "lionisation"
+    word: true
   - trigger: "liquidizers"
     replace: "liquidisers"
+    word: true
   - trigger: "liquidizing"
     replace: "liquidising"
+    word: true
   - trigger: "magnetizing"
     replace: "magnetising"
+    word: true
   - trigger: "maneuvering"
     replace: "manoeuvring"
+    word: true
   - trigger: "marginalize"
     replace: "marginalise"
+    word: true
   - trigger: "marvelously"
     replace: "marvellously"
+    word: true
   - trigger: "materialize"
     replace: "materialise"
+    word: true
   - trigger: "mechanizing"
     replace: "mechanising"
+    word: true
   - trigger: "memorialize"
     replace: "memorialise"
+    word: true
   - trigger: "mesmerizing"
     replace: "mesmerising"
+    word: true
   - trigger: "metabolized"
     replace: "metabolised"
+    word: true
   - trigger: "metabolizes"
     replace: "metabolises"
+    word: true
   - trigger: "militarized"
     replace: "militarised"
+    word: true
   - trigger: "militarizes"
     replace: "militarises"
+    word: true
   - trigger: "milliliters"
     replace: "millilitres"
+    word: true
   - trigger: "millimeters"
     replace: "millimetres"
+    word: true
   - trigger: "miniaturize"
     replace: "miniaturise"
+    word: true
   - trigger: "misbehavior"
     replace: "misbehaviour"
+    word: true
   - trigger: "misdemeanor"
     replace: "misdemeanour"
+    word: true
   - trigger: "modernizing"
     replace: "modernising"
+    word: true
   - trigger: "moisturized"
     replace: "moisturised"
+    word: true
   - trigger: "moisturizer"
     replace: "moisturiser"
+    word: true
   - trigger: "moisturizes"
     replace: "moisturises"
+    word: true
   - trigger: "monopolized"
     replace: "monopolised"
+    word: true
   - trigger: "monopolizes"
     replace: "monopolises"
+    word: true
   - trigger: "nationalize"
     replace: "nationalise"
+    word: true
   - trigger: "naturalized"
     replace: "naturalised"
+    word: true
   - trigger: "naturalizes"
     replace: "naturalises"
+    word: true
   - trigger: "neighboring"
     replace: "neighbouring"
+    word: true
   - trigger: "neutralized"
     replace: "neutralised"
+    word: true
   - trigger: "neutralizes"
     replace: "neutralises"
+    word: true
   - trigger: "normalizing"
     replace: "normalising"
+    word: true
   - trigger: "orthopedics"
     replace: "orthopaedics"
+    word: true
   - trigger: "ostracizing"
     replace: "ostracising"
+    word: true
   - trigger: "outmaneuver"
     replace: "outmanoeuvre"
+    word: true
   - trigger: "oxidization"
     replace: "oxidisation"
+    word: true
   - trigger: "pasteurized"
     replace: "pasteurised"
+    word: true
   - trigger: "pasteurizes"
     replace: "pasteurises"
+    word: true
   - trigger: "patronizing"
     replace: "patronising"
+    word: true
   - trigger: "personalize"
     replace: "personalise"
+    word: true
   - trigger: "plagiarized"
     replace: "plagiarised"
+    word: true
   - trigger: "plagiarizes"
     replace: "plagiarises"
+    word: true
   - trigger: "politicized"
     replace: "politicised"
+    word: true
   - trigger: "politicizes"
     replace: "politicises"
+    word: true
   - trigger: "popularized"
     replace: "popularised"
+    word: true
   - trigger: "popularizes"
     replace: "popularises"
+    word: true
   - trigger: "pressurized"
     replace: "pressurised"
+    word: true
   - trigger: "pressurizes"
     replace: "pressurises"
+    word: true
   - trigger: "prioritized"
     replace: "prioritised"
+    word: true
   - trigger: "prioritizes"
     replace: "prioritises"
+    word: true
   - trigger: "privatizing"
     replace: "privatising"
+    word: true
   - trigger: "proselytize"
     replace: "proselytise"
+    word: true
   - trigger: "publicizing"
     replace: "publicising"
+    word: true
   - trigger: "pulverizing"
     replace: "pulverising"
+    word: true
   - trigger: "radicalized"
     replace: "radicalised"
+    word: true
   - trigger: "radicalizes"
     replace: "radicalises"
+    word: true
   - trigger: "randomizing"
     replace: "randomising"
+    word: true
   - trigger: "rationalize"
     replace: "rationalise"
+    word: true
   - trigger: "realization"
     replace: "realisation"
+    word: true
   - trigger: "recognizing"
     replace: "recognising"
+    word: true
   - trigger: "reconnoiter"
     replace: "reconnoitre"
+    word: true
   - trigger: "regularized"
     replace: "regularised"
+    word: true
   - trigger: "regularizes"
     replace: "regularises"
+    word: true
   - trigger: "reorganized"
     replace: "reorganised"
+    word: true
   - trigger: "reorganizes"
     replace: "reorganises"
+    word: true
   - trigger: "revitalized"
     replace: "revitalised"
+    word: true
   - trigger: "revitalizes"
     replace: "revitalises"
+    word: true
   - trigger: "rhapsodized"
     replace: "rhapsodised"
+    word: true
   - trigger: "rhapsodizes"
     replace: "rhapsodises"
+    word: true
   - trigger: "romanticize"
     replace: "romanticise"
+    word: true
   - trigger: "scandalized"
     replace: "scandalised"
+    word: true
   - trigger: "scandalizes"
     replace: "scandalises"
+    word: true
   - trigger: "scrutinized"
     replace: "scrutinised"
+    word: true
   - trigger: "scrutinizes"
     replace: "scrutinises"
+    word: true
   - trigger: "secularized"
     replace: "secularised"
+    word: true
   - trigger: "secularizes"
     replace: "secularises"
+    word: true
   - trigger: "sensitizing"
     replace: "sensitising"
+    word: true
   - trigger: "serializing"
     replace: "serialising"
+    word: true
   - trigger: "sermonizing"
     replace: "sermonising"
+    word: true
   - trigger: "signalizing"
     replace: "signalising"
+    word: true
   - trigger: "skeptically"
     replace: "sceptically"
+    word: true
   - trigger: "socializing"
     replace: "socialising"
+    word: true
   - trigger: "solemnizing"
     replace: "solemnising"
+    word: true
   - trigger: "specialized"
     replace: "specialised"
+    word: true
   - trigger: "specializes"
     replace: "specialises"
+    word: true
   - trigger: "squirreling"
     replace: "squirrelling"
+    word: true
   - trigger: "stabilizers"
     replace: "stabilisers"
+    word: true
   - trigger: "stabilizing"
     replace: "stabilising"
+    word: true
   - trigger: "standardize"
     replace: "standardise"
+    word: true
   - trigger: "sterilizers"
     replace: "sterilisers"
+    word: true
   - trigger: "sterilizing"
     replace: "sterilising"
+    word: true
   - trigger: "stigmatized"
     replace: "stigmatised"
+    word: true
   - trigger: "stigmatizes"
     replace: "stigmatises"
+    word: true
   - trigger: "subsidizers"
     replace: "subsidisers"
+    word: true
   - trigger: "subsidizing"
     replace: "subsidising"
+    word: true
   - trigger: "summarizing"
     replace: "summarising"
+    word: true
   - trigger: "symbolizing"
     replace: "symbolising"
+    word: true
   - trigger: "sympathized"
     replace: "sympathised"
+    word: true
   - trigger: "sympathizer"
     replace: "sympathiser"
+    word: true
   - trigger: "sympathizes"
     replace: "sympathises"
+    word: true
   - trigger: "synchronize"
     replace: "synchronise"
+    word: true
   - trigger: "synthesized"
     replace: "synthesised"
+    word: true
   - trigger: "synthesizes"
     replace: "synthesises"
+    word: true
   - trigger: "systematize"
     replace: "systematise"
+    word: true
   - trigger: "tantalizing"
     replace: "tantalising"
+    word: true
   - trigger: "temporizing"
     replace: "temporising"
+    word: true
   - trigger: "tenderizing"
     replace: "tenderising"
+    word: true
   - trigger: "terrorizing"
     replace: "terrorising"
+    word: true
   - trigger: "theatergoer"
     replace: "theatregoer"
+    word: true
   - trigger: "traumatized"
     replace: "traumatised"
+    word: true
   - trigger: "traumatizes"
     replace: "traumatises"
+    word: true
   - trigger: "trivialized"
     replace: "trivialised"
+    word: true
   - trigger: "trivializes"
     replace: "trivialises"
+    word: true
   - trigger: "tyrannizing"
     replace: "tyrannising"
+    word: true
   - trigger: "uncataloged"
     replace: "uncatalogued"
+    word: true
   - trigger: "uncivilized"
     replace: "uncivilised"
+    word: true
   - trigger: "unfavorable"
     replace: "unfavourable"
+    word: true
   - trigger: "unfavorably"
     replace: "unfavourably"
+    word: true
   - trigger: "unorganized"
     replace: "unorganised"
+    word: true
   - trigger: "untrammeled"
     replace: "untrammelled"
+    word: true
   - trigger: "utilization"
     replace: "utilisation"
+    word: true
   - trigger: "vandalizing"
     replace: "vandalising"
+    word: true
   - trigger: "verbalizing"
     replace: "verbalising"
+    word: true
   - trigger: "victimizing"
     replace: "victimising"
+    word: true
   - trigger: "visualizing"
     replace: "visualising"
+    word: true
   - trigger: "vulgarizing"
     replace: "vulgarising"
+    word: true
   - trigger: "watercolors"
     replace: "watercolours"
+    word: true
   - trigger: "westernized"
     replace: "westernised"
+    word: true
   - trigger: "westernizes"
     replace: "westernises"
+    word: true
   - trigger: "amortizing"
     replace: "amortising"
+    word: true
   - trigger: "anesthesia"
     replace: "anaesthesia"
+    word: true
   - trigger: "anesthetic"
     replace: "anaesthetic"
+    word: true
   - trigger: "anglicized"
     replace: "anglicised"
+    word: true
   - trigger: "anglicizes"
     replace: "anglicises"
+    word: true
   - trigger: "annualized"
     replace: "annualised"
+    word: true
   - trigger: "antagonize"
     replace: "antagonise"
+    word: true
   - trigger: "apologized"
     replace: "apologised"
+    word: true
   - trigger: "apologizes"
     replace: "apologises"
+    word: true
   - trigger: "appetizers"
     replace: "appetisers"
+    word: true
   - trigger: "appetizing"
     replace: "appetising"
+    word: true
   - trigger: "archeology"
     replace: "archaeology"
+    word: true
   - trigger: "authorizes"
     replace: "authorises"
+    word: true
   - trigger: "bastardize"
     replace: "bastardise"
+    word: true
   - trigger: "bedeviling"
     replace: "bedevilling"
+    word: true
   - trigger: "behavioral"
     replace: "behavioural"
+    word: true
   - trigger: "belaboring"
     replace: "belabouring"
+    word: true
   - trigger: "bowdlerize"
     replace: "bowdlerise"
+    word: true
   - trigger: "brutalized"
     replace: "brutalised"
+    word: true
   - trigger: "brutalizes"
     replace: "brutalises"
+    word: true
   - trigger: "canalizing"
     replace: "canalising"
+    word: true
   - trigger: "canonizing"
     replace: "canonising"
+    word: true
   - trigger: "capitalize"
     replace: "capitalise"
+    word: true
   - trigger: "caramelize"
     replace: "caramelise"
+    word: true
   - trigger: "carbonized"
     replace: "carbonised"
+    word: true
   - trigger: "carbonizes"
     replace: "carbonises"
+    word: true
   - trigger: "cataloging"
     replace: "cataloguing"
+    word: true
   - trigger: "catalyzing"
     replace: "catalysing"
+    word: true
   - trigger: "categorize"
     replace: "categorise"
+    word: true
   - trigger: "cauterized"
     replace: "cauterised"
+    word: true
   - trigger: "cauterizes"
     replace: "cauterises"
+    word: true
   - trigger: "centerfold"
     replace: "centrefold"
+    word: true
   - trigger: "centiliter"
     replace: "centilitre"
+    word: true
   - trigger: "centimeter"
     replace: "centimetre"
+    word: true
   - trigger: "centralize"
     replace: "centralise"
+    word: true
   - trigger: "channeling"
     replace: "channelling"
+    word: true
   - trigger: "checkbooks"
     replace: "chequebooks"
+    word: true
   - trigger: "civilizing"
     replace: "civilising"
+    word: true
   - trigger: "colonizers"
     replace: "colonisers"
+    word: true
   - trigger: "colonizing"
     replace: "colonising"
+    word: true
   - trigger: "colorfully"
     replace: "colourfully"
+    word: true
   - trigger: "colorizing"
     replace: "colourizing"
+    word: true
   - trigger: "councilors"
     replace: "councillors"
+    word: true
   - trigger: "counselors"
     replace: "counsellors"
+    word: true
   - trigger: "criticized"
     replace: "criticised"
+    word: true
   - trigger: "criticizes"
     replace: "criticises"
+    word: true
   - trigger: "customized"
     replace: "customised"
+    word: true
   - trigger: "customizes"
     replace: "customises"
+    word: true
   - trigger: "dehumanize"
     replace: "dehumanise"
+    word: true
   - trigger: "demobilize"
     replace: "demobilise"
+    word: true
   - trigger: "demonizing"
     replace: "demonising"
+    word: true
   - trigger: "demoralize"
     replace: "demoralise"
+    word: true
   - trigger: "deodorized"
     replace: "deodorised"
+    word: true
   - trigger: "deodorizes"
     replace: "deodorises"
+    word: true
   - trigger: "deputizing"
     replace: "deputising"
+    word: true
   - trigger: "digitizing"
     replace: "digitising"
+    word: true
   - trigger: "discolored"
     replace: "discoloured"
+    word: true
   - trigger: "disheveled"
     replace: "dishevelled"
+    word: true
   - trigger: "dishonored"
     replace: "dishonoured"
+    word: true
   - trigger: "dramatized"
     replace: "dramatised"
+    word: true
   - trigger: "dramatizes"
     replace: "dramatises"
+    word: true
   - trigger: "economized"
     replace: "economised"
+    word: true
   - trigger: "economizes"
     replace: "economises"
+    word: true
   - trigger: "empathized"
     replace: "empathised"
+    word: true
   - trigger: "empathizes"
     replace: "empathises"
+    word: true
   - trigger: "emphasized"
     replace: "emphasised"
+    word: true
   - trigger: "emphasizes"
     replace: "emphasises"
+    word: true
   - trigger: "endeavored"
     replace: "endeavoured"
+    word: true
   - trigger: "energizing"
     replace: "energising"
+    word: true
   - trigger: "epicenters"
     replace: "epicentres"
+    word: true
   - trigger: "epitomized"
     replace: "epitomised"
+    word: true
   - trigger: "epitomizes"
     replace: "epitomises"
+    word: true
   - trigger: "equalizers"
     replace: "equalisers"
+    word: true
   - trigger: "equalizing"
     replace: "equalising"
+    word: true
   - trigger: "eulogizing"
     replace: "eulogising"
+    word: true
   - trigger: "evangelize"
     replace: "evangelise"
+    word: true
   - trigger: "factorized"
     replace: "factorised"
+    word: true
   - trigger: "factorizes"
     replace: "factorises"
+    word: true
   - trigger: "fantasized"
     replace: "fantasised"
+    word: true
   - trigger: "fantasizes"
     replace: "fantasises"
+    word: true
   - trigger: "favoritism"
     replace: "favouritism"
+    word: true
   - trigger: "feminizing"
     replace: "feminising"
+    word: true
   - trigger: "fertilized"
     replace: "fertilised"
+    word: true
   - trigger: "fertilizer"
     replace: "fertiliser"
+    word: true
   - trigger: "fertilizes"
     replace: "fertilises"
+    word: true
   - trigger: "fiberglass"
     replace: "fibreglass"
+    word: true
   - trigger: "finalizing"
     replace: "finalising"
+    word: true
   - trigger: "flavorings"
     replace: "flavourings"
+    word: true
   - trigger: "flavorless"
     replace: "flavourless"
+    word: true
   - trigger: "flavorsome"
     replace: "flavoursome"
+    word: true
   - trigger: "formalized"
     replace: "formalised"
+    word: true
   - trigger: "formalizes"
     replace: "formalises"
+    word: true
   - trigger: "fossilized"
     replace: "fossilised"
+    word: true
   - trigger: "fossilizes"
     replace: "fossilises"
+    word: true
   - trigger: "fraternize"
     replace: "fraternise"
+    word: true
   - trigger: "galvanized"
     replace: "galvanised"
+    word: true
   - trigger: "galvanizes"
     replace: "galvanises"
+    word: true
   - trigger: "generalize"
     replace: "generalise"
+    word: true
   - trigger: "ghettoized"
     replace: "ghettoised"
+    word: true
   - trigger: "ghettoizes"
     replace: "ghettoises"
+    word: true
   - trigger: "globalized"
     replace: "globalised"
+    word: true
   - trigger: "globalizes"
     replace: "globalises"
+    word: true
   - trigger: "gruelingly"
     replace: "gruellingly"
+    word: true
   - trigger: "gynecology"
     replace: "gynaecology"
+    word: true
   - trigger: "harmonized"
     replace: "harmonised"
+    word: true
   - trigger: "harmonizes"
     replace: "harmonises"
+    word: true
   - trigger: "hematology"
     replace: "haematology"
+    word: true
   - trigger: "hemoglobin"
     replace: "haemoglobin"
+    word: true
   - trigger: "hemophilia"
     replace: "haemophilia"
+    word: true
   - trigger: "hemorrhage"
     replace: "haemorrhage"
+    word: true
   - trigger: "homogenize"
     replace: "homogenise"
+    word: true
   - trigger: "humanizing"
     replace: "humanising"
+    word: true
   - trigger: "hybridized"
     replace: "hybridised"
+    word: true
   - trigger: "hybridizes"
     replace: "hybridises"
+    word: true
   - trigger: "hypnotized"
     replace: "hypnotised"
+    word: true
   - trigger: "hypnotizes"
     replace: "hypnotises"
+    word: true
   - trigger: "idealizing"
     replace: "idealising"
+    word: true
   - trigger: "immobilize"
     replace: "immobilise"
+    word: true
   - trigger: "immunizing"
     replace: "immunising"
+    word: true
   - trigger: "impaneling"
     replace: "impanelling"
+    word: true
   - trigger: "imperiling"
     replace: "imperilling"
+    word: true
   - trigger: "initialing"
     replace: "initialling"
+    word: true
   - trigger: "initialize"
     replace: "initialise"
+    word: true
   - trigger: "ionization"
     replace: "ionisation"
+    word: true
   - trigger: "italicized"
     replace: "italicised"
+    word: true
   - trigger: "italicizes"
     replace: "italicises"
+    word: true
   - trigger: "jeopardize"
     replace: "jeopardise"
+    word: true
   - trigger: "kilometers"
     replace: "kilometres"
+    word: true
   - trigger: "lackluster"
     replace: "lacklustre"
+    word: true
   - trigger: "legalizing"
     replace: "legalising"
+    word: true
   - trigger: "legitimize"
     replace: "legitimise"
+    word: true
   - trigger: "liberalize"
     replace: "liberalise"
+    word: true
   - trigger: "liquidized"
     replace: "liquidised"
+    word: true
   - trigger: "liquidizer"
     replace: "liquidiser"
+    word: true
   - trigger: "liquidizes"
     replace: "liquidises"
+    word: true
   - trigger: "localizing"
     replace: "localising"
+    word: true
   - trigger: "magnetized"
     replace: "magnetised"
+    word: true
   - trigger: "magnetizes"
     replace: "magnetises"
+    word: true
   - trigger: "maneuvered"
     replace: "manoeuvred"
+    word: true
   - trigger: "marshaling"
     replace: "marshalling"
+    word: true
   - trigger: "maximizing"
     replace: "maximising"
+    word: true
   - trigger: "mechanized"
     replace: "mechanised"
+    word: true
   - trigger: "mechanizes"
     replace: "mechanises"
+    word: true
   - trigger: "memorizing"
     replace: "memorising"
+    word: true
   - trigger: "mesmerized"
     replace: "mesmerised"
+    word: true
   - trigger: "mesmerizes"
     replace: "mesmerises"
+    word: true
   - trigger: "metabolize"
     replace: "metabolise"
+    word: true
   - trigger: "militarize"
     replace: "militarise"
+    word: true
   - trigger: "milliliter"
     replace: "millilitre"
+    word: true
   - trigger: "millimeter"
     replace: "millimetre"
+    word: true
   - trigger: "minimizing"
     replace: "minimising"
+    word: true
   - trigger: "mobilizing"
     replace: "mobilising"
+    word: true
   - trigger: "modernized"
     replace: "modernised"
+    word: true
   - trigger: "modernizes"
     replace: "modernises"
+    word: true
   - trigger: "moisturize"
     replace: "moisturise"
+    word: true
   - trigger: "monopolize"
     replace: "monopolise"
+    word: true
   - trigger: "moralizing"
     replace: "moralising"
+    word: true
   - trigger: "naturalize"
     replace: "naturalise"
+    word: true
   - trigger: "neighborly"
     replace: "neighbourly"
+    word: true
   - trigger: "neutralize"
     replace: "neutralise"
+    word: true
   - trigger: "normalized"
     replace: "normalised"
+    word: true
   - trigger: "normalizes"
     replace: "normalises"
+    word: true
   - trigger: "optimizing"
     replace: "optimising"
+    word: true
   - trigger: "organizers"
     replace: "organisers"
+    word: true
   - trigger: "organizing"
     replace: "organising"
+    word: true
   - trigger: "orthopedic"
     replace: "orthopaedic"
+    word: true
   - trigger: "ostracized"
     replace: "ostracised"
+    word: true
   - trigger: "ostracizes"
     replace: "ostracises"
+    word: true
   - trigger: "paralyzing"
     replace: "paralysing"
+    word: true
   - trigger: "pasteurize"
     replace: "pasteurise"
+    word: true
   - trigger: "patronized"
     replace: "patronised"
+    word: true
   - trigger: "patronizes"
     replace: "patronises"
+    word: true
   - trigger: "pedophiles"
     replace: "paedophiles"
+    word: true
   - trigger: "pedophilia"
     replace: "paedophilia"
+    word: true
   - trigger: "penalizing"
     replace: "penalising"
+    word: true
   - trigger: "plagiarize"
     replace: "plagiarise"
+    word: true
   - trigger: "plowshares"
     replace: "ploughshares"
+    word: true
   - trigger: "polarizing"
     replace: "polarising"
+    word: true
   - trigger: "politicize"
     replace: "politicise"
+    word: true
   - trigger: "popularize"
     replace: "popularise"
+    word: true
   - trigger: "prioritize"
     replace: "prioritise"
+    word: true
   - trigger: "privatized"
     replace: "privatised"
+    word: true
   - trigger: "privatizes"
     replace: "privatises"
+    word: true
   - trigger: "publicized"
     replace: "publicised"
+    word: true
   - trigger: "publicizes"
     replace: "publicises"
+    word: true
   - trigger: "pulverized"
     replace: "pulverised"
+    word: true
   - trigger: "pulverizes"
     replace: "pulverises"
+    word: true
   - trigger: "quarreling"
     replace: "quarrelling"
+    word: true
   - trigger: "radicalize"
     replace: "radicalise"
+    word: true
   - trigger: "randomized"
     replace: "randomised"
+    word: true
   - trigger: "randomizes"
     replace: "randomises"
+    word: true
   - trigger: "realizable"
     replace: "realisable"
+    word: true
   - trigger: "recognized"
     replace: "recognised"
+    word: true
   - trigger: "recognizes"
     replace: "recognises"
+    word: true
   - trigger: "regularize"
     replace: "regularise"
+    word: true
   - trigger: "remodeling"
     replace: "remodelling"
+    word: true
   - trigger: "reorganize"
     replace: "reorganise"
+    word: true
   - trigger: "revitalize"
     replace: "revitalise"
+    word: true
   - trigger: "rhapsodize"
     replace: "rhapsodise"
+    word: true
   - trigger: "ritualized"
     replace: "ritualised"
+    word: true
   - trigger: "sanitizing"
     replace: "sanitising"
+    word: true
   - trigger: "satirizing"
     replace: "satirising"
+    word: true
   - trigger: "scandalize"
     replace: "scandalise"
+    word: true
   - trigger: "scrutinize"
     replace: "scrutinise"
+    word: true
   - trigger: "secularize"
     replace: "secularise"
+    word: true
   - trigger: "sensitized"
     replace: "sensitised"
+    word: true
   - trigger: "sensitizes"
     replace: "sensitises"
+    word: true
   - trigger: "sepulchers"
     replace: "sepulchres"
+    word: true
   - trigger: "serialized"
     replace: "serialised"
+    word: true
   - trigger: "serializes"
     replace: "serialises"
+    word: true
   - trigger: "sermonized"
     replace: "sermonised"
+    word: true
   - trigger: "sermonizes"
     replace: "sermonises"
+    word: true
   - trigger: "shriveling"
     replace: "shrivelling"
+    word: true
   - trigger: "signalized"
     replace: "signalised"
+    word: true
   - trigger: "signalizes"
     replace: "signalises"
+    word: true
   - trigger: "skepticism"
     replace: "scepticism"
+    word: true
   - trigger: "socialized"
     replace: "socialised"
+    word: true
   - trigger: "socializes"
     replace: "socialises"
+    word: true
   - trigger: "sodomizing"
     replace: "sodomising"
+    word: true
   - trigger: "solemnized"
     replace: "solemnised"
+    word: true
   - trigger: "solemnizes"
     replace: "solemnises"
+    word: true
   - trigger: "specialize"
     replace: "specialise"
+    word: true
   - trigger: "squirreled"
     replace: "squirrelled"
+    word: true
   - trigger: "stabilized"
     replace: "stabilised"
+    word: true
   - trigger: "stabilizer"
     replace: "stabiliser"
+    word: true
   - trigger: "stabilizes"
     replace: "stabilises"
+    word: true
   - trigger: "stenciling"
     replace: "stencilling"
+    word: true
   - trigger: "sterilized"
     replace: "sterilised"
+    word: true
   - trigger: "sterilizer"
     replace: "steriliser"
+    word: true
   - trigger: "sterilizes"
     replace: "sterilises"
+    word: true
   - trigger: "stigmatize"
     replace: "stigmatise"
+    word: true
   - trigger: "subsidized"
     replace: "subsidised"
+    word: true
   - trigger: "subsidizer"
     replace: "subsidiser"
+    word: true
   - trigger: "subsidizes"
     replace: "subsidises"
+    word: true
   - trigger: "summarized"
     replace: "summarised"
+    word: true
   - trigger: "summarizes"
     replace: "summarises"
+    word: true
   - trigger: "symbolized"
     replace: "symbolised"
+    word: true
   - trigger: "symbolizes"
     replace: "symbolises"
+    word: true
   - trigger: "sympathize"
     replace: "sympathise"
+    word: true
   - trigger: "tantalized"
     replace: "tantalised"
+    word: true
   - trigger: "tantalizes"
     replace: "tantalises"
+    word: true
   - trigger: "temporized"
     replace: "temporised"
+    word: true
   - trigger: "temporizes"
     replace: "temporises"
+    word: true
   - trigger: "tenderized"
     replace: "tenderised"
+    word: true
   - trigger: "tenderizes"
     replace: "tenderises"
+    word: true
   - trigger: "terrorized"
     replace: "terrorised"
+    word: true
   - trigger: "terrorizes"
     replace: "terrorises"
+    word: true
   - trigger: "theorizing"
     replace: "theorising"
+    word: true
   - trigger: "traumatize"
     replace: "traumatise"
+    word: true
   - trigger: "trivialize"
     replace: "trivialise"
+    word: true
   - trigger: "tyrannized"
     replace: "tyrannised"
+    word: true
   - trigger: "tyrannizes"
     replace: "tyrannises"
+    word: true
   - trigger: "unionizing"
     replace: "unionising"
+    word: true
   - trigger: "unraveling"
     replace: "unravelling"
+    word: true
   - trigger: "urbanizing"
     replace: "urbanising"
+    word: true
   - trigger: "utilizable"
     replace: "utilisable"
+    word: true
   - trigger: "vandalized"
     replace: "vandalised"
+    word: true
   - trigger: "vandalizes"
     replace: "vandalises"
+    word: true
   - trigger: "vaporizing"
     replace: "vaporising"
+    word: true
   - trigger: "verbalized"
     replace: "verbalised"
+    word: true
   - trigger: "verbalizes"
     replace: "verbalises"
+    word: true
   - trigger: "victimized"
     replace: "victimised"
+    word: true
   - trigger: "victimizes"
     replace: "victimises"
+    word: true
   - trigger: "visualized"
     replace: "visualised"
+    word: true
   - trigger: "visualizes"
     replace: "visualises"
+    word: true
   - trigger: "vocalizing"
     replace: "vocalising"
+    word: true
   - trigger: "vulcanized"
     replace: "vulcanised"
+    word: true
   - trigger: "vulgarized"
     replace: "vulgarised"
+    word: true
   - trigger: "vulgarizes"
     replace: "vulgarises"
+    word: true
   - trigger: "watercolor"
     replace: "watercolour"
+    word: true
   - trigger: "westernize"
     replace: "westernise"
+    word: true
   - trigger: "womanizers"
     replace: "womanisers"
+    word: true
   - trigger: "womanizing"
     replace: "womanising"
+    word: true
   - trigger: "worshiping"
     replace: "worshipping"
+    word: true
   - trigger: "agonizing"
     replace: "agonising"
+    word: true
   - trigger: "airplanes"
     replace: "aeroplanes"
+    word: true
   - trigger: "amortized"
     replace: "amortised"
+    word: true
   - trigger: "amortizes"
     replace: "amortises"
+    word: true
   - trigger: "analyzing"
     replace: "analysing"
+    word: true
   - trigger: "apologize"
     replace: "apologise"
+    word: true
   - trigger: "appetizer"
     replace: "appetiser"
+    word: true
   - trigger: "artifacts"
     replace: "artefacts"
+    word: true
   - trigger: "baptizing"
     replace: "baptising"
+    word: true
   - trigger: "bedeviled"
     replace: "bedevilled"
+    word: true
   - trigger: "behaviors"
     replace: "behaviours"
+    word: true
   - trigger: "bejeweled"
     replace: "bejewelled"
+    word: true
   - trigger: "belabored"
     replace: "belaboured"
+    word: true
   - trigger: "brutalize"
     replace: "brutalise"
+    word: true
   - trigger: "canalized"
     replace: "canalised"
+    word: true
   - trigger: "canalizes"
     replace: "canalises"
+    word: true
   - trigger: "canonized"
     replace: "canonised"
+    word: true
   - trigger: "canonizes"
     replace: "canonises"
+    word: true
   - trigger: "carbonize"
     replace: "carbonise"
+    word: true
   - trigger: "cataloged"
     replace: "catalogued"
+    word: true
   - trigger: "catalyzed"
     replace: "catalysed"
+    word: true
   - trigger: "catalyzes"
     replace: "catalyses"
+    word: true
   - trigger: "cauterize"
     replace: "cauterise"
+    word: true
   - trigger: "channeled"
     replace: "channelled"
+    word: true
   - trigger: "checkbook"
     replace: "chequebook"
+    word: true
   - trigger: "checkered"
     replace: "chequered"
+    word: true
   - trigger: "chiseling"
     replace: "chiselling"
+    word: true
   - trigger: "civilized"
     replace: "civilised"
+    word: true
   - trigger: "civilizes"
     replace: "civilises"
+    word: true
   - trigger: "clamoring"
     replace: "clamouring"
+    word: true
   - trigger: "colonized"
     replace: "colonised"
+    word: true
   - trigger: "colonizer"
     replace: "coloniser"
+    word: true
   - trigger: "colonizes"
     replace: "colonises"
+    word: true
   - trigger: "colorants"
     replace: "colourants"
+    word: true
   - trigger: "colorized"
     replace: "colourized"
+    word: true
   - trigger: "colorizes"
     replace: "colourizes"
+    word: true
   - trigger: "colorless"
     replace: "colourless"
+    word: true
   - trigger: "councilor"
     replace: "councillor"
+    word: true
   - trigger: "counseled"
     replace: "counselled"
+    word: true
   - trigger: "counselor"
     replace: "counsellor"
+    word: true
   - trigger: "criticize"
     replace: "criticise"
+    word: true
   - trigger: "cudgeling"
     replace: "cudgelling"
+    word: true
   - trigger: "customize"
     replace: "customise"
+    word: true
   - trigger: "demonized"
     replace: "demonised"
+    word: true
   - trigger: "demonizes"
     replace: "demonises"
+    word: true
   - trigger: "deodorize"
     replace: "deodorise"
+    word: true
   - trigger: "deputized"
     replace: "deputised"
+    word: true
   - trigger: "deputizes"
     replace: "deputises"
+    word: true
   - trigger: "digitized"
     replace: "digitised"
+    word: true
   - trigger: "digitizes"
     replace: "digitises"
+    word: true
   - trigger: "discolors"
     replace: "discolours"
+    word: true
   - trigger: "dishonors"
     replace: "dishonours"
+    word: true
   - trigger: "dramatize"
     replace: "dramatise"
+    word: true
   - trigger: "driveling"
     replace: "drivelling"
+    word: true
   - trigger: "economize"
     replace: "economise"
+    word: true
   - trigger: "empathize"
     replace: "empathise"
+    word: true
   - trigger: "emphasize"
     replace: "emphasise"
+    word: true
   - trigger: "enameling"
     replace: "enamelling"
+    word: true
   - trigger: "endeavors"
     replace: "endeavours"
+    word: true
   - trigger: "energized"
     replace: "energised"
+    word: true
   - trigger: "energizes"
     replace: "energises"
+    word: true
   - trigger: "enthralls"
     replace: "enthrals"
+    word: true
   - trigger: "epicenter"
     replace: "epicentre"
+    word: true
   - trigger: "epitomize"
     replace: "epitomise"
+    word: true
   - trigger: "equalized"
     replace: "equalised"
+    word: true
   - trigger: "equalizer"
     replace: "equaliser"
+    word: true
   - trigger: "equalizes"
     replace: "equalises"
+    word: true
   - trigger: "eulogized"
     replace: "eulogised"
+    word: true
   - trigger: "eulogizes"
     replace: "eulogises"
+    word: true
   - trigger: "factorize"
     replace: "factorise"
+    word: true
   - trigger: "fantasize"
     replace: "fantasise"
+    word: true
   - trigger: "favorable"
     replace: "favourable"
+    word: true
   - trigger: "favorably"
     replace: "favourably"
+    word: true
   - trigger: "favorites"
     replace: "favourites"
+    word: true
   - trigger: "feminized"
     replace: "feminised"
+    word: true
   - trigger: "feminizes"
     replace: "feminises"
+    word: true
   - trigger: "fertilize"
     replace: "fertilise"
+    word: true
   - trigger: "finalized"
     replace: "finalised"
+    word: true
   - trigger: "finalizes"
     replace: "finalises"
+    word: true
   - trigger: "flavoring"
     replace: "flavouring"
+    word: true
   - trigger: "formalize"
     replace: "formalise"
+    word: true
   - trigger: "fossilize"
     replace: "fossilise"
+    word: true
   - trigger: "funneling"
     replace: "funnelling"
+    word: true
   - trigger: "galvanize"
     replace: "galvanise"
+    word: true
   - trigger: "gamboling"
     replace: "gambolling"
+    word: true
   - trigger: "ghettoize"
     replace: "ghettoise"
+    word: true
   - trigger: "globalize"
     replace: "globalise"
+    word: true
   - trigger: "gonorrhea"
     replace: "gonorrhoea"
+    word: true
   - trigger: "groveling"
     replace: "grovelling"
+    word: true
   - trigger: "harboring"
     replace: "harbouring"
+    word: true
   - trigger: "harmonize"
     replace: "harmonise"
+    word: true
   - trigger: "honorably"
     replace: "honourably"
+    word: true
   - trigger: "humanized"
     replace: "humanised"
+    word: true
   - trigger: "humanizes"
     replace: "humanises"
+    word: true
   - trigger: "hybridize"
     replace: "hybridise"
+    word: true
   - trigger: "hypnotize"
     replace: "hypnotise"
+    word: true
   - trigger: "idealized"
     replace: "idealised"
+    word: true
   - trigger: "idealizes"
     replace: "idealises"
+    word: true
   - trigger: "idolizing"
     replace: "idolising"
+    word: true
   - trigger: "immunized"
     replace: "immunised"
+    word: true
   - trigger: "immunizes"
     replace: "immunises"
+    word: true
   - trigger: "impaneled"
     replace: "impanelled"
+    word: true
   - trigger: "imperiled"
     replace: "imperilled"
+    word: true
   - trigger: "initialed"
     replace: "initialled"
+    word: true
   - trigger: "italicize"
     replace: "italicise"
+    word: true
   - trigger: "itemizing"
     replace: "itemising"
+    word: true
   - trigger: "kilometer"
     replace: "kilometre"
+    word: true
   - trigger: "legalized"
     replace: "legalised"
+    word: true
   - trigger: "legalizes"
     replace: "legalises"
+    word: true
   - trigger: "lionizing"
     replace: "lionising"
+    word: true
   - trigger: "liquidize"
     replace: "liquidise"
+    word: true
   - trigger: "localized"
     replace: "localised"
+    word: true
   - trigger: "localizes"
     replace: "localises"
+    word: true
   - trigger: "magnetize"
     replace: "magnetise"
+    word: true
   - trigger: "maneuvers"
     replace: "manoeuvres"
+    word: true
   - trigger: "marshaled"
     replace: "marshalled"
+    word: true
   - trigger: "marveling"
     replace: "marvelling"
+    word: true
   - trigger: "marvelous"
     replace: "marvellous"
+    word: true
   - trigger: "maximized"
     replace: "maximised"
+    word: true
   - trigger: "maximizes"
     replace: "maximises"
+    word: true
   - trigger: "mechanize"
     replace: "mechanise"
+    word: true
   - trigger: "memorized"
     replace: "memorised"
+    word: true
   - trigger: "memorizes"
     replace: "memorises"
+    word: true
   - trigger: "mesmerize"
     replace: "mesmerise"
+    word: true
   - trigger: "minimized"
     replace: "minimised"
+    word: true
   - trigger: "minimizes"
     replace: "minimises"
+    word: true
   - trigger: "mobilized"
     replace: "mobilised"
+    word: true
   - trigger: "mobilizes"
     replace: "mobilises"
+    word: true
   - trigger: "modernize"
     replace: "modernise"
+    word: true
   - trigger: "moldering"
     replace: "mouldering"
+    word: true
   - trigger: "moralized"
     replace: "moralised"
+    word: true
   - trigger: "moralizes"
     replace: "moralises"
+    word: true
   - trigger: "motorized"
     replace: "motorised"
+    word: true
   - trigger: "mustached"
     replace: "moustached"
+    word: true
   - trigger: "mustaches"
     replace: "moustaches"
+    word: true
   - trigger: "neighbors"
     replace: "neighbours"
+    word: true
   - trigger: "normalize"
     replace: "normalise"
+    word: true
   - trigger: "optimized"
     replace: "optimised"
+    word: true
   - trigger: "optimizes"
     replace: "optimises"
+    word: true
   - trigger: "organized"
     replace: "organised"
+    word: true
   - trigger: "organizer"
     replace: "organiser"
+    word: true
   - trigger: "organizes"
     replace: "organises"
+    word: true
   - trigger: "ostracize"
     replace: "ostracise"
+    word: true
   - trigger: "oxidizing"
     replace: "oxidising"
+    word: true
   - trigger: "panelists"
     replace: "panellists"
+    word: true
   - trigger: "paralyzed"
     replace: "paralysed"
+    word: true
   - trigger: "paralyzes"
     replace: "paralyses"
+    word: true
   - trigger: "parceling"
     replace: "parcelling"
+    word: true
   - trigger: "patronize"
     replace: "patronise"
+    word: true
   - trigger: "pedophile"
     replace: "paedophile"
+    word: true
   - trigger: "penalized"
     replace: "penalised"
+    word: true
   - trigger: "penalizes"
     replace: "penalises"
+    word: true
   - trigger: "penciling"
     replace: "pencilling"
+    word: true
   - trigger: "plowshare"
     replace: "ploughshare"
+    word: true
   - trigger: "polarized"
     replace: "polarised"
+    word: true
   - trigger: "polarizes"
     replace: "polarises"
+    word: true
   - trigger: "practiced"
     replace: "practised"
+    word: true
   - trigger: "pretenses"
     replace: "pretences"
+    word: true
   - trigger: "privatize"
     replace: "privatise"
+    word: true
   - trigger: "publicize"
     replace: "publicise"
+    word: true
   - trigger: "pulverize"
     replace: "pulverise"
+    word: true
   - trigger: "quarreled"
     replace: "quarrelled"
+    word: true
   - trigger: "randomize"
     replace: "randomise"
+    word: true
   - trigger: "realizing"
     replace: "realising"
+    word: true
   - trigger: "recognize"
     replace: "recognise"
+    word: true
   - trigger: "refueling"
     replace: "refuelling"
+    word: true
   - trigger: "remodeled"
     replace: "remodelled"
+    word: true
   - trigger: "remolding"
     replace: "remoulding"
+    word: true
   - trigger: "saltpeter"
     replace: "saltpetre"
+    word: true
   - trigger: "sanitized"
     replace: "sanitised"
+    word: true
   - trigger: "sanitizes"
     replace: "sanitises"
+    word: true
   - trigger: "satirized"
     replace: "satirised"
+    word: true
   - trigger: "satirizes"
     replace: "satirises"
+    word: true
   - trigger: "sensitize"
     replace: "sensitise"
+    word: true
   - trigger: "sepulcher"
     replace: "sepulchre"
+    word: true
   - trigger: "serialize"
     replace: "serialise"
+    word: true
   - trigger: "sermonize"
     replace: "sermonise"
+    word: true
   - trigger: "shoveling"
     replace: "shovelling"
+    word: true
   - trigger: "shriveled"
     replace: "shrivelled"
+    word: true
   - trigger: "signaling"
     replace: "signalling"
+    word: true
   - trigger: "signalize"
     replace: "signalise"
+    word: true
   - trigger: "skeptical"
     replace: "sceptical"
+    word: true
   - trigger: "sniveling"
     replace: "snivelling"
+    word: true
   - trigger: "snorkeled"
     replace: "snorkelled"
+    word: true
   - trigger: "socialize"
     replace: "socialise"
+    word: true
   - trigger: "sodomized"
     replace: "sodomised"
+    word: true
   - trigger: "sodomizes"
     replace: "sodomises"
+    word: true
   - trigger: "solemnize"
     replace: "solemnise"
+    word: true
   - trigger: "spiraling"
     replace: "spiralling"
+    word: true
   - trigger: "splendors"
     replace: "splendours"
+    word: true
   - trigger: "stabilize"
     replace: "stabilise"
+    word: true
   - trigger: "stenciled"
     replace: "stencilled"
+    word: true
   - trigger: "sterilize"
     replace: "sterilise"
+    word: true
   - trigger: "subsidize"
     replace: "subsidise"
+    word: true
   - trigger: "succoring"
     replace: "succouring"
+    word: true
   - trigger: "sulfurous"
     replace: "sulphurous"
+    word: true
   - trigger: "summarize"
     replace: "summarise"
+    word: true
   - trigger: "swiveling"
     replace: "swivelling"
+    word: true
   - trigger: "symbolize"
     replace: "symbolise"
+    word: true
   - trigger: "tantalize"
     replace: "tantalise"
+    word: true
   - trigger: "temporize"
     replace: "temporise"
+    word: true
   - trigger: "tenderize"
     replace: "tenderise"
+    word: true
   - trigger: "terrorize"
     replace: "terrorise"
+    word: true
   - trigger: "theorized"
     replace: "theorised"
+    word: true
   - trigger: "theorizes"
     replace: "theorises"
+    word: true
   - trigger: "travelers"
     replace: "travellers"
+    word: true
   - trigger: "traveling"
     replace: "travelling"
+    word: true
   - trigger: "tricolors"
     replace: "tricolours"
+    word: true
   - trigger: "tunneling"
     replace: "tunnelling"
+    word: true
   - trigger: "tyrannize"
     replace: "tyrannise"
+    word: true
   - trigger: "unequaled"
     replace: "unequalled"
+    word: true
   - trigger: "unionized"
     replace: "unionised"
+    word: true
   - trigger: "unionizes"
     replace: "unionises"
+    word: true
   - trigger: "unraveled"
     replace: "unravelled"
+    word: true
   - trigger: "unrivaled"
     replace: "unrivalled"
+    word: true
   - trigger: "urbanized"
     replace: "urbanised"
+    word: true
   - trigger: "urbanizes"
     replace: "urbanises"
+    word: true
   - trigger: "utilizing"
     replace: "utilising"
+    word: true
   - trigger: "vandalize"
     replace: "vandalise"
+    word: true
   - trigger: "vaporized"
     replace: "vaporised"
+    word: true
   - trigger: "vaporizes"
     replace: "vaporises"
+    word: true
   - trigger: "verbalize"
     replace: "verbalise"
+    word: true
   - trigger: "victimize"
     replace: "victimise"
+    word: true
   - trigger: "visualize"
     replace: "visualise"
+    word: true
   - trigger: "vocalized"
     replace: "vocalised"
+    word: true
   - trigger: "vocalizes"
     replace: "vocalises"
+    word: true
   - trigger: "vulgarize"
     replace: "vulgarise"
+    word: true
   - trigger: "weaseling"
     replace: "weaselling"
+    word: true
   - trigger: "womanized"
     replace: "womanised"
+    word: true
   - trigger: "womanizer"
     replace: "womaniser"
+    word: true
   - trigger: "womanizes"
     replace: "womanises"
+    word: true
   - trigger: "worshiped"
     replace: "worshipped"
+    word: true
   - trigger: "worshiper"
     replace: "worshipper"
+    word: true
   - trigger: "agonized"
     replace: "agonised"
+    word: true
   - trigger: "agonizes"
     replace: "agonises"
+    word: true
   - trigger: "airplane"
     replace: "aeroplane"
+    word: true
   - trigger: "aluminum"
     replace: "aluminium"
+    word: true
   - trigger: "amortize"
     replace: "amortise"
+    word: true
   - trigger: "analyzed"
     replace: "analysed"
+    word: true
   - trigger: "analyzes"
     replace: "analyses"
+    word: true
   - trigger: "armorers"
     replace: "armourers"
+    word: true
   - trigger: "armories"
     replace: "armouries"
+    word: true
   - trigger: "artifact"
     replace: "artefact"
+    word: true
   - trigger: "baptized"
     replace: "baptised"
+    word: true
   - trigger: "baptizes"
     replace: "baptises"
+    word: true
   - trigger: "behavior"
     replace: "behaviour"
+    word: true
   - trigger: "behooved"
     replace: "behoved"
+    word: true
   - trigger: "behooves"
     replace: "behoves"
+    word: true
   - trigger: "belabors"
     replace: "belabours"
+    word: true
   - trigger: "calibers"
     replace: "calibres"
+    word: true
   - trigger: "canalize"
     replace: "canalise"
+    word: true
   - trigger: "canonize"
     replace: "canonise"
+    word: true
   - trigger: "catalogs"
     replace: "catalogues"
+    word: true
   - trigger: "catalyze"
     replace: "catalyse"
+    word: true
   - trigger: "caviling"
     replace: "cavilling"
+    word: true
   - trigger: "centered"
     replace: "centred"
+    word: true
   - trigger: "chiseled"
     replace: "chiselled"
+    word: true
   - trigger: "civilize"
     replace: "civilise"
+    word: true
   - trigger: "clamored"
     replace: "clamoured"
+    word: true
   - trigger: "colonize"
     replace: "colonise"
+    word: true
   - trigger: "colorant"
     replace: "colourant"
+    word: true
   - trigger: "coloreds"
     replace: "coloureds"
+    word: true
   - trigger: "colorful"
     replace: "colourful"
+    word: true
   - trigger: "coloring"
     replace: "colouring"
+    word: true
   - trigger: "colorize"
     replace: "colourize"
+    word: true
   - trigger: "coziness"
     replace: "cosiness"
+    word: true
   - trigger: "cruelest"
     replace: "cruellest"
+    word: true
   - trigger: "cudgeled"
     replace: "cudgelled"
+    word: true
   - trigger: "defenses"
     replace: "defences"
+    word: true
   - trigger: "demeanor"
     replace: "demeanour"
+    word: true
   - trigger: "demonize"
     replace: "demonise"
+    word: true
   - trigger: "deputize"
     replace: "deputise"
+    word: true
   - trigger: "diarrhea"
     replace: "diarrhoea"
+    word: true
   - trigger: "digitize"
     replace: "digitise"
+    word: true
   - trigger: "disfavor"
     replace: "disfavour"
+    word: true
   - trigger: "dishonor"
     replace: "dishonour"
+    word: true
   - trigger: "distills"
     replace: "distils"
+    word: true
   - trigger: "driveled"
     replace: "drivelled"
+    word: true
   - trigger: "enameled"
     replace: "enamelled"
+    word: true
   - trigger: "enamored"
     replace: "enamoured"
+    word: true
   - trigger: "endeavor"
     replace: "endeavour"
+    word: true
   - trigger: "energize"
     replace: "energise"
+    word: true
   - trigger: "epaulets"
     replace: "epaulettes"
+    word: true
   - trigger: "equalize"
     replace: "equalise"
+    word: true
   - trigger: "estrogen"
     replace: "oestrogen"
+    word: true
   - trigger: "etiology"
     replace: "aetiology"
+    word: true
   - trigger: "eulogize"
     replace: "eulogise"
+    word: true
   - trigger: "favoring"
     replace: "favouring"
+    word: true
   - trigger: "favorite"
     replace: "favourite"
+    word: true
   - trigger: "feminize"
     replace: "feminise"
+    word: true
   - trigger: "finalize"
     replace: "finalise"
+    word: true
   - trigger: "flavored"
     replace: "flavoured"
+    word: true
   - trigger: "flutists"
     replace: "flautists"
+    word: true
   - trigger: "fulfills"
     replace: "fulfils"
+    word: true
   - trigger: "funneled"
     replace: "funnelled"
+    word: true
   - trigger: "gamboled"
     replace: "gambolled"
+    word: true
   - trigger: "graveled"
     replace: "gravelled"
+    word: true
   - trigger: "groveled"
     replace: "grovelled"
+    word: true
   - trigger: "grueling"
     replace: "gruelling"
+    word: true
   - trigger: "harbored"
     replace: "harboured"
+    word: true
   - trigger: "honoring"
     replace: "honouring"
+    word: true
   - trigger: "humanize"
     replace: "humanise"
+    word: true
   - trigger: "humoring"
     replace: "humouring"
+    word: true
   - trigger: "idealize"
     replace: "idealise"
+    word: true
   - trigger: "idolized"
     replace: "idolised"
+    word: true
   - trigger: "idolizes"
     replace: "idolises"
+    word: true
   - trigger: "immunize"
     replace: "immunise"
+    word: true
   - trigger: "ionizing"
     replace: "ionising"
+    word: true
   - trigger: "itemized"
     replace: "itemised"
+    word: true
   - trigger: "itemizes"
     replace: "itemises"
+    word: true
   - trigger: "jewelers"
     replace: "jewellers"
+    word: true
   - trigger: "labeling"
     replace: "labelling"
+    word: true
   - trigger: "laborers"
     replace: "labourers"
+    word: true
   - trigger: "laboring"
     replace: "labouring"
+    word: true
   - trigger: "legalize"
     replace: "legalise"
+    word: true
   - trigger: "leukemia"
     replace: "leukaemia"
+    word: true
   - trigger: "levelers"
     replace: "levellers"
+    word: true
   - trigger: "leveling"
     replace: "levelling"
+    word: true
   - trigger: "libeling"
     replace: "libelling"
+    word: true
   - trigger: "libelous"
     replace: "libellous"
+    word: true
   - trigger: "lionized"
     replace: "lionised"
+    word: true
   - trigger: "lionizes"
     replace: "lionises"
+    word: true
   - trigger: "localize"
     replace: "localise"
+    word: true
   - trigger: "louvered"
     replace: "louvred"
+    word: true
   - trigger: "maneuver"
     replace: "manoeuvre"
+    word: true
   - trigger: "marveled"
     replace: "marvelled"
+    word: true
   - trigger: "maximize"
     replace: "maximise"
+    word: true
   - trigger: "memorize"
     replace: "memorise"
+    word: true
   - trigger: "minimize"
     replace: "minimise"
+    word: true
   - trigger: "mobilize"
     replace: "mobilise"
+    word: true
   - trigger: "modelers"
     replace: "modellers"
+    word: true
   - trigger: "modeling"
     replace: "modelling"
+    word: true
   - trigger: "moldered"
     replace: "mouldered"
+    word: true
   - trigger: "moldiest"
     replace: "mouldiest"
+    word: true
   - trigger: "moldings"
     replace: "mouldings"
+    word: true
   - trigger: "moralize"
     replace: "moralise"
+    word: true
   - trigger: "mustache"
     replace: "moustache"
+    word: true
   - trigger: "neighbor"
     replace: "neighbour"
+    word: true
   - trigger: "odorless"
     replace: "odourless"
+    word: true
   - trigger: "offenses"
     replace: "offences"
+    word: true
   - trigger: "optimize"
     replace: "optimise"
+    word: true
   - trigger: "organize"
     replace: "organise"
+    word: true
   - trigger: "oxidized"
     replace: "oxidised"
+    word: true
   - trigger: "oxidizes"
     replace: "oxidises"
+    word: true
   - trigger: "paneling"
     replace: "panelling"
+    word: true
   - trigger: "panelist"
     replace: "panellist"
+    word: true
   - trigger: "paralyze"
     replace: "paralyse"
+    word: true
   - trigger: "parceled"
     replace: "parcelled"
+    word: true
   - trigger: "pedaling"
     replace: "pedalling"
+    word: true
   - trigger: "penalize"
     replace: "penalise"
+    word: true
   - trigger: "penciled"
     replace: "pencilled"
+    word: true
   - trigger: "polarize"
     replace: "polarise"
+    word: true
   - trigger: "pretense"
     replace: "pretence"
+    word: true
   - trigger: "pummeled"
     replace: "pummelling"
+    word: true
   - trigger: "raveling"
     replace: "ravelling"
+    word: true
   - trigger: "realized"
     replace: "realised"
+    word: true
   - trigger: "realizes"
     replace: "realises"
+    word: true
   - trigger: "refueled"
     replace: "refuelled"
+    word: true
   - trigger: "remolded"
     replace: "remoulded"
+    word: true
   - trigger: "revelers"
     replace: "revellers"
+    word: true
   - trigger: "reveling"
     replace: "revelling"
+    word: true
   - trigger: "rivaling"
     replace: "rivalling"
+    word: true
   - trigger: "sanitize"
     replace: "sanitise"
+    word: true
   - trigger: "satirize"
     replace: "satirise"
+    word: true
   - trigger: "savories"
     replace: "savouries"
+    word: true
   - trigger: "savoring"
     replace: "savouring"
+    word: true
   - trigger: "scepters"
     replace: "sceptres"
+    word: true
   - trigger: "shoveled"
     replace: "shovelled"
+    word: true
   - trigger: "signaled"
     replace: "signalled"
+    word: true
   - trigger: "skeptics"
     replace: "sceptics"
+    word: true
   - trigger: "sniveled"
     replace: "snivelled"
+    word: true
   - trigger: "sodomize"
     replace: "sodomise"
+    word: true
   - trigger: "specters"
     replace: "spectres"
+    word: true
   - trigger: "spiraled"
     replace: "spiralled"
+    word: true
   - trigger: "splendor"
     replace: "splendour"
+    word: true
   - trigger: "succored"
     replace: "succoured"
+    word: true
   - trigger: "sulfates"
     replace: "sulphates"
+    word: true
   - trigger: "sulfides"
     replace: "sulphides"
+    word: true
   - trigger: "swiveled"
     replace: "swivelled"
+    word: true
   - trigger: "tasseled"
     replace: "tasselled"
+    word: true
   - trigger: "theaters"
     replace: "theatres"
+    word: true
   - trigger: "theorize"
     replace: "theorise"
+    word: true
   - trigger: "toweling"
     replace: "towelling"
+    word: true
   - trigger: "traveler"
     replace: "traveller"
+    word: true
   - trigger: "trialing"
     replace: "trialling"
+    word: true
   - trigger: "tricolor"
     replace: "tricolour"
+    word: true
   - trigger: "tunneled"
     replace: "tunnelled"
+    word: true
   - trigger: "unionize"
     replace: "unionise"
+    word: true
   - trigger: "unsavory"
     replace: "unsavoury"
+    word: true
   - trigger: "urbanize"
     replace: "urbanise"
+    word: true
   - trigger: "utilized"
     replace: "utilised"
+    word: true
   - trigger: "utilizes"
     replace: "utilises"
+    word: true
   - trigger: "vaporize"
     replace: "vaporise"
+    word: true
   - trigger: "vocalize"
     replace: "vocalise"
+    word: true
   - trigger: "weaseled"
     replace: "weaselled"
+    word: true
   - trigger: "womanize"
     replace: "womanise"
+    word: true
   - trigger: "yodeling"
     replace: "yodelling"
+    word: true
   - trigger: "agonize"
     replace: "agonise"
+    word: true
   - trigger: "analyze"
     replace: "analyse"
+    word: true
   - trigger: "appalls"
     replace: "appals"
+    word: true
   - trigger: "armored"
     replace: "armoured"
+    word: true
   - trigger: "armorer"
     replace: "armourer"
+    word: true
   - trigger: "baptize"
     replace: "baptise"
+    word: true
   - trigger: "behoove"
     replace: "behove"
+    word: true
   - trigger: "belabor"
     replace: "belabour"
+    word: true
   - trigger: "beveled"
     replace: "bevelled"
+    word: true
   - trigger: "caliber"
     replace: "calibre"
+    word: true
   - trigger: "caroled"
     replace: "carolled"
+    word: true
   - trigger: "caviled"
     replace: "cavilled"
+    word: true
   - trigger: "centers"
     replace: "centres"
+    word: true
   - trigger: "clamors"
     replace: "clamours"
+    word: true
   - trigger: "clangor"
     replace: "clangour"
+    word: true
   - trigger: "colored"
     replace: "coloured"
+    word: true
   - trigger: "coziest"
     replace: "cosiest"
+    word: true
   - trigger: "crueler"
     replace: "crueller"
+    word: true
   - trigger: "defense"
     replace: "defence"
+    word: true
   - trigger: "dialing"
     replace: "dialling"
+    word: true
   - trigger: "dialogs"
     replace: "dialogues"
+    word: true
   - trigger: "distill"
     replace: "distil"
+    word: true
   - trigger: "dueling"
     replace: "duelling"
+    word: true
   - trigger: "enrolls"
     replace: "enrols"
+    word: true
   - trigger: "epaulet"
     replace: "epaulette"
+    word: true
   - trigger: "favored"
     replace: "favoured"
+    word: true
   - trigger: "flavors"
     replace: "flavours"
+    word: true
   - trigger: "flutist"
     replace: "flautist"
+    word: true
   - trigger: "fueling"
     replace: "fuelling"
+    word: true
   - trigger: "fulfill"
     replace: "fulfil"
+    word: true
   - trigger: "goiters"
     replace: "goitres"
+    word: true
   - trigger: "harbors"
     replace: "harbours"
+    word: true
   - trigger: "honored"
     replace: "honoured"
+    word: true
   - trigger: "humored"
     replace: "humoured"
+    word: true
   - trigger: "idolize"
     replace: "idolise"
+    word: true
   - trigger: "ionized"
     replace: "ionised"
+    word: true
   - trigger: "ionizes"
     replace: "ionises"
+    word: true
   - trigger: "itemize"
     replace: "itemise"
+    word: true
   - trigger: "jeweled"
     replace: "jewelled"
+    word: true
   - trigger: "jeweler"
     replace: "jeweller"
+    word: true
   - trigger: "jewelry"
     replace: "jewellery"
+    word: true
   - trigger: "labeled"
     replace: "labelled"
+    word: true
   - trigger: "labored"
     replace: "laboured"
+    word: true
   - trigger: "laborer"
     replace: "labourer"
+    word: true
   - trigger: "leveled"
     replace: "levelled"
+    word: true
   - trigger: "leveler"
     replace: "leveller"
+    word: true
   - trigger: "libeled"
     replace: "libelled"
+    word: true
   - trigger: "lionize"
     replace: "lionise"
+    word: true
   - trigger: "louvers"
     replace: "louvres"
+    word: true
   - trigger: "modeled"
     replace: "modelled"
+    word: true
   - trigger: "modeler"
     replace: "modeller"
+    word: true
   - trigger: "molders"
     replace: "moulders"
+    word: true
   - trigger: "moldier"
     replace: "mouldier"
+    word: true
   - trigger: "molding"
     replace: "moulding"
+    word: true
   - trigger: "molting"
     replace: "moulting"
+    word: true
   - trigger: "offense"
     replace: "offence"
+    word: true
   - trigger: "oxidize"
     replace: "oxidise"
+    word: true
   - trigger: "pajamas"
     replace: "pyjamas"
+    word: true
   - trigger: "paneled"
     replace: "panelled"
+    word: true
   - trigger: "parlors"
     replace: "parlours"
+    word: true
   - trigger: "pedaled"
     replace: "pedalled"
+    word: true
   - trigger: "plowing"
     replace: "ploughing"
+    word: true
   - trigger: "plowman"
     replace: "ploughman"
+    word: true
   - trigger: "plowmen"
     replace: "ploughmen"
+    word: true
   - trigger: "realize"
     replace: "realise"
+    word: true
   - trigger: "remolds"
     replace: "remoulds"
+    word: true
   - trigger: "reveled"
     replace: "revelled"
+    word: true
   - trigger: "reveler"
     replace: "reveller"
+    word: true
   - trigger: "rivaled"
     replace: "rivalled"
+    word: true
   - trigger: "rumored"
     replace: "rumoured"
+    word: true
   - trigger: "saviors"
     replace: "saviours"
+    word: true
   - trigger: "savored"
     replace: "savoured"
+    word: true
   - trigger: "scepter"
     replace: "sceptre"
+    word: true
   - trigger: "skeptic"
     replace: "sceptic"
+    word: true
   - trigger: "specter"
     replace: "spectre"
+    word: true
   - trigger: "succors"
     replace: "succours"
+    word: true
   - trigger: "sulfate"
     replace: "sulphate"
+    word: true
   - trigger: "sulfide"
     replace: "sulphide"
+    word: true
   - trigger: "theater"
     replace: "theatre"
+    word: true
   - trigger: "toweled"
     replace: "towelled"
+    word: true
   - trigger: "toxemia"
     replace: "toxaemia"
+    word: true
   - trigger: "trialed"
     replace: "trialled"
+    word: true
   - trigger: "utilize"
     replace: "utilise"
+    word: true
   - trigger: "yodeled"
     replace: "yodelled"
+    word: true
   - trigger: "anemia"
     replace: "anaemia"
+    word: true
   - trigger: "anemic"
     replace: "anaemic"
+    word: true
   - trigger: "appall"
     replace: "appal"
+    word: true
   - trigger: "arbors"
     replace: "arbours"
+    word: true
   - trigger: "armory"
     replace: "armoury"
+    word: true
   - trigger: "candor"
     replace: "candour"
+    word: true
   - trigger: "center"
     replace: "centre"
+    word: true
   - trigger: "clamor"
     replace: "clamour"
+    word: true
   - trigger: "colors"
     replace: "colours"
+    word: true
   - trigger: "cozier"
     replace: "cosier"
+    word: true
   - trigger: "cozies"
     replace: "cosies"
+    word: true
   - trigger: "cozily"
     replace: "cosily"
+    word: true
   - trigger: "dialed"
     replace: "dialled"
+    word: true
   - trigger: "drafty"
     replace: "draughty"
+    word: true
   - trigger: "dueled"
     replace: "duelled"
+    word: true
   - trigger: "favors"
     replace: "favours"
+    word: true
   - trigger: "fervor"
     replace: "fervour"
+    word: true
   - trigger: "fibers"
     replace: "fibres"
+    word: true
   - trigger: "flavor"
     replace: "flavour"
+    word: true
   - trigger: "fueled"
     replace: "fuelled"
+    word: true
   - trigger: "goiter"
     replace: "goitre"
+    word: true
   - trigger: "harbor"
     replace: "harbour"
+    word: true
   - trigger: "honors"
     replace: "honours"
+    word: true
   - trigger: "humors"
     replace: "humours"
+    word: true
   - trigger: "labors"
     replace: "labours"
+    word: true
   - trigger: "liters"
     replace: "litres"
+    word: true
   - trigger: "louver"
     replace: "louvre"
+    word: true
   - trigger: "luster"
     replace: "lustre"
+    word: true
   - trigger: "meager"
     replace: "meagre"
+    word: true
   - trigger: "miters"
     replace: "mitres"
+    word: true
   - trigger: "molded"
     replace: "moulded"
+    word: true
   - trigger: "molder"
     replace: "moulder"
+    word: true
   - trigger: "molted"
     replace: "moulted"
+    word: true
   - trigger: "pajama"
     replace: "pyjama"
+    word: true
   - trigger: "parlor"
     replace: "parlour"
+    word: true
   - trigger: "plowed"
     replace: "ploughed"
+    word: true
   - trigger: "rancor"
     replace: "rancour"
+    word: true
   - trigger: "remold"
     replace: "remould"
+    word: true
   - trigger: "rigors"
     replace: "rigours"
+    word: true
   - trigger: "rumors"
     replace: "rumours"
+    word: true
   - trigger: "savors"
     replace: "savours"
+    word: true
   - trigger: "savory"
     replace: "savoury"
+    word: true
   - trigger: "succor"
     replace: "succour"
+    word: true
   - trigger: "tumors"
     replace: "tumours"
+    word: true
   - trigger: "vapors"
     replace: "vapours"
+    word: true
   - trigger: "aging"
     replace: "ageing"
+    word: true
   - trigger: "arbor"
     replace: "arbour"
+    word: true
   - trigger: "ardor"
     replace: "ardour"
+    word: true
   - trigger: "armor"
     replace: "armour"
+    word: true
   - trigger: "chili"
     replace: "chilli"
+    word: true
   - trigger: "color"
     replace: "colour"
+    word: true
   - trigger: "edema"
     replace: "edoema"
+    word: true
   - trigger: "favor"
     replace: "favour"
+    word: true
   - trigger: "fecal"
     replace: "faecal"
+    word: true
   - trigger: "feces"
     replace: "faeces"
+    word: true
   - trigger: "fiber"
     replace: "fibre"
+    word: true
   - trigger: "honor"
     replace: "honour"
+    word: true
   - trigger: "humor"
     replace: "humour"
+    word: true
   - trigger: "labor"
     replace: "labour"
+    word: true
   - trigger: "liter"
     replace: "litre"
+    word: true
   - trigger: "miter"
     replace: "mitre"
+    word: true
   - trigger: "molds"
     replace: "moulds"
+    word: true
   - trigger: "moldy"
     replace: "mouldy"
+    word: true
   - trigger: "molts"
     replace: "moults"
+    word: true
   - trigger: "odors"
     replace: "odours"
+    word: true
   - trigger: "plows"
     replace: "ploughs"
+    word: true
   - trigger: "rigor"
     replace: "rigour"
+    word: true
   - trigger: "rumor"
     replace: "rumour"
+    word: true
   - trigger: "savor"
     replace: "savour"
+    word: true
   - trigger: "valor"
     replace: "valour"
+    word: true
   - trigger: "vapor"
     replace: "vapour"
+    word: true
   - trigger: "vigor"
     replace: "vigour"
+    word: true
   - trigger: "cozy"
     replace: "cosy"
+    word: true
   - trigger: "mold"
     replace: "mould"
+    word: true
   - trigger: "molt"
     replace: "moult"
+    word: true
   - trigger: "odor"
     replace: "odour"
+    word: true
   - trigger: "plow"
     replace: "plough"
+    word: true

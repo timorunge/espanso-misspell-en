@@ -158,8 +158,8 @@ github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXf
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/timakin/bodyclose v0.0.0-20190930140734-f7f2e9bca95e/go.mod h1:Qimiffbc6q9tBWlVV6x0P9sat/ao1xEkREYPPj9hphk=
-github.com/timorunge/espanso v0.0.0-20191015212157-b3710501403b h1:nRbMzTVgMrX71p0s4Ma9sYAF2ZBpjYY9sDcI26aqHPU=
-github.com/timorunge/espanso v0.0.0-20191015212157-b3710501403b/go.mod h1:uf7tc8Qkd2PB2rkG/2CXCwR9sHxyIjcKP9g7ZjjU8z4=
+github.com/timorunge/espanso v0.0.0-20191028080539-34d68becf187 h1:SYNlEh1gP0NfN0g21GMb184J4MBh3C0SSmMwYIAbIBg=
+github.com/timorunge/espanso v0.0.0-20191028080539-34d68becf187/go.mod h1:uf7tc8Qkd2PB2rkG/2CXCwR9sHxyIjcKP9g7ZjjU8z4=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
 github.com/ugorji/go v1.1.4/go.mod h1:uQMGLiO92mf5W77hV/PUCpI3pbzQx3CRekS0kk+RGrc=
 github.com/ugorji/go/codec v0.0.0-20181204163529-d75b2dcb6bc8/go.mod h1:VFNgLljTbGfSG7qAOspJ7OScBnGdDN/yBr0sguwnwf0=
