@@ -11,7 +11,7 @@ import (
 const (
 	author  = "Timo Runge"
 	repo    = "https://github.com/timorunge/espanso-misspell-en"
-	version = "0.1.1"
+	version = "0.1.2"
 )
 
 func main() {
@@ -24,7 +24,7 @@ func genEn() {
 	p := espanso.NewPackage()
 	p.SetName("misspell-en")
 	p.SetParent("default")
-	p.SetMatches(espanso.DictToMatches(misspell.DictMain).SetWord(true))
+	p.SetMatches(espanso.DictToMatches(misspell.DictMain).SetWord(true).SetPropagateCase(true))
 	p.SetVersion(version)
 	if err := p.Write(); err != nil {
 		panic(err)
@@ -51,7 +51,7 @@ func genEnUK() {
 	p := espanso.NewPackage()
 	p.SetName("misspell-en_UK")
 	p.SetParent("default")
-	p.SetMatches(espanso.DictToMatches(misspell.DictBritish).SetWord(true))
+	p.SetMatches(espanso.DictToMatches(misspell.DictBritish).SetWord(true).SetPropagateCase(true))
 	p.SetVersion(version)
 	if err := p.Write(); err != nil {
 		panic(err)
@@ -78,7 +78,7 @@ func genEnUS() {
 	p := espanso.NewPackage()
 	p.SetName("misspell-en_US")
 	p.SetParent("default")
-	p.SetMatches(espanso.DictToMatches(misspell.DictAmerican).SetWord(true))
+	p.SetMatches(espanso.DictToMatches(misspell.DictAmerican).SetWord(true).SetPropagateCase(true))
 	p.SetVersion(version)
 	if err := p.Write(); err != nil {
 		panic(err)
